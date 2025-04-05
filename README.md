@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou Samuel, estudante de ADS, apaixonado por desenvolvimento, cibersegurança e xadrez, sempre em busca de aprendizado e evolução.</h2>
+<h2 align="left">De técnico em informática a estudante de ADS, minha jornada é guiada pela paixão por tecnologia, segurança da informação e o raciocínio afiado do xadrez. Evoluir é meu lema.</h2>
 
 ###
 
