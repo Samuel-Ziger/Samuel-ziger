@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Samuel-Ziger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Ziger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://github.com/Samuel-Ziger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20%Idiomas" alt="Principais idiomas" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Ziger&theme=redical&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
