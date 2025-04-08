@@ -2,25 +2,26 @@
 
 ---
 
-### <h2 align="left">💻 De técnico em informática a estudante de ADS, minha jornada é guiada pela paixão por tecnologia, segurança da informação e o raciocínio afiado do xadrez. Evoluir é meu lema.</h2>
-
----
-
 ### 🧠 Linguagens mais usadas + 📊 Estatísticas do GitHub
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/Samuel-Ziger" align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Linguagens mais usadas -->
+  <a href="https://github.com/Samuel-Ziger">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20Idiomas" alt="Principais idiomas" />
   </a>
 
-  <div>
+  <!-- Estatísticas do GitHub, uma abaixo da outra -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
     <img src="https://streak-stats.demolab.com?user=Samuel-Ziger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
   </div>
 </div>
 
+<!-- Gráfico de atividade separado -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Ziger&theme=redical&area=true" height="150" />
 </div>
+
 
 ---
 
