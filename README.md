@@ -1,7 +1,7 @@
 <h2 align="left">De técnico em informática a estudante de ADS, minha jornada é guiada pela paixão por tecnologia, segurança da informação e o raciocínio afiado do xadrez. Evoluir é meu lema.</h2>
 
 ###
-
+ <a href="https://github.com/Samuel-Ziger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20%Idiomas" alt="Principais idiomas" /></a>
 <br clear="both">
 
 <div align="center">
@@ -100,5 +100,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Samuel-Ziger/count.svg?"  />
 </div>
- <a href="https://github.com/Samuel-Ziger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20%Idiomas" alt="Principais idiomas" /></a>
+
 ###
