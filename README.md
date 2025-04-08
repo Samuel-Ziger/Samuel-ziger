@@ -9,7 +9,7 @@
   <img src="https://streak-stats.demolab.com?user=Samuel-Ziger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Ziger&theme=redical&area=true" height="150" alt="activity-graph graph"  />
 </div>
-  <a href="https://github.com/Samuel-Ziger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20%Idiomas" alt="Principais idiomas" /></a>
+ 
   
 
 ###
@@ -100,5 +100,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Samuel-Ziger/count.svg?"  />
 </div>
-
+ <a href="https://github.com/Samuel-Ziger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20%Idiomas" alt="Principais idiomas" /></a>
 ###
