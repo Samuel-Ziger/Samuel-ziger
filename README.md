@@ -1,5 +1,5 @@
 <h2 align="left">💻 De técnico em informática a estudante de Análise e Desenvolvimento de Sistemas, minha jornada é guiada pela paixão por tecnologia, cibersegurança e pela lógica estratégica que aprendi no xadrez — onde cada movimento importa, assim como cada linha de código.
-Evoluir é meu lema, e encaro cada desafio como uma partida decisiva: com foco, análise e a coragem de sacrificar para conquistar o xeque-mat.</h2>
+Evoluir é meu lema, e encaro cada desafio como uma partida decisiva: com foco, análise e a coragem de sacrificar para conquistar o xeque-mate.</h2>
 
 ---
 
