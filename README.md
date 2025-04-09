@@ -1,4 +1,5 @@
-<h2 align="left">💻 De técnico em informática a estudante de ADS, minha jornada é guiada pela paixão por tecnologia, segurança da informação e o raciocínio afiado do xadrez. Evoluir é meu lema.</h2>
+<h2 align="left">💻 De técnico em informática a estudante de Análise e Desenvolvimento de Sistemas, minha jornada é guiada pela paixão por tecnologia, cibersegurança e pela lógica estratégica que aprendi no xadrez — onde cada movimento importa, assim como cada linha de código.
+Evoluir é meu lema, e encaro cada desafio como uma partida decisiva: com foco, análise e a coragem de sacrificar para conquistar o xeque-mat.</h2>
 
 ---
 
