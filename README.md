@@ -94,3 +94,7 @@ Evoluir é meu lema, e encaro cada desafio como uma partida decisiva: com foco, 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Samuel-Ziger/count.svg?" />
 </div>
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
+
