@@ -12,7 +12,7 @@ Evoluir é meu lema, e encaro cada desafio como uma partida decisiva: com foco, 
   <tr>
     <td align="center">
       <a href="https://github.com/Samuel-Ziger" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20Idiomas" alt="Principais idiomas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Principais%20Idiomas" alt="Principais idiomas" />
       </a>
     </td>
     <td align="center" style="padding-left: 20px;">
