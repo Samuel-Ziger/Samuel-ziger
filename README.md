@@ -1,4 +1,4 @@
-<h2 align="center">💻 De técnico em informática a estudante de Análise e Desenvolvimento de Sistemas, minha jornada é guiada pela paixão por tecnologia, cibersegurança e pela lógica estratégica do xadrez — onde cada movimento importa, assim como cada linha de código.</h2>
+<h2 align="center">💻 De técnico em informática a estudante de Análise e Desenvolvimento de Sistemas, minha jornada é guiada pela paixão por tecnologia, cibersegurança e pela lógica estratégica do xadrez — onde cada movimento importa, assim como cada linha de código...</h2>
 
 <p align="center" style="font-style: italic; color: #0891b2;">
 Evoluir é meu lema, e encaro cada desafio como uma partida decisiva: com foco, análise e a coragem de sacrificar para conquistar o xeque-mate. ♟️🚀
