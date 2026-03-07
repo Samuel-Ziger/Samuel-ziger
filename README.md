@@ -181,6 +181,37 @@ O material foi estruturado para **treinamentos, conscientização de segurança 
 
 🔗  
 https://github.com/Samuel-Ziger/CursoSegurancaCibernetica
+# 📱 Conteúdo Educacional — Segurança Digital
+
+Além da atuação técnica em cibersegurança, também produzo conteúdo educacional voltado ao público geral, com o objetivo de ajudar pessoas comuns a se protegerem na internet.
+
+O foco é traduzir conceitos de segurança digital de forma simples, prática e acessível, combatendo golpes online e aumentando a conscientização sobre privacidade e proteção de dados.
+
+### 🎯 Conteúdos abordados
+
+- golpes online (phishing, golpes do WhatsApp, Pix, redes sociais)
+- identificação de fraudes digitais
+- proteção de contas e autenticação segura
+- privacidade digital
+- segurança em redes sociais
+- proteção de dados pessoais
+- educação digital para iniciantes
+
+A proposta é **levar conhecimento de cibersegurança para quem não é da área**, ajudando usuários comuns a reconhecer riscos e navegar na internet com mais segurança.
+
+### 📲 TikTok
+
+Zona de Segurança Digital
+
+Conteúdo focado em:
+
+- alertas sobre golpes digitais
+- dicas rápidas de segurança
+- educação digital
+- proteção de contas e dados
+
+🔗  
+https://www.tiktok.com/@zonadesegurancadigital
 
 ---
 
