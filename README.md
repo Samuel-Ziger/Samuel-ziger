@@ -1,137 +1,243 @@
 <h1 align="center">Samuel Ziger</h1>
 
 <h3 align="center">
-Offensive Security • Pentester • Developer
+Cybersecurity • Offensive Security • Pentest • Backend Development
 </h3>
 
 <p align="center">
-Profissional focado em <b>Segurança Ofensiva, Pentest e Desenvolvimento</b>.  
-Experiência em análise de vulnerabilidades, exploração controlada, automação e construção de aplicações seguras.
+Pentester e desenvolvedor com experiência em segurança ofensiva, desenvolvimento backend e infraestrutura.  
+Foco em identificar vulnerabilidades reais, desenvolver soluções seguras e automatizar processos de segurança.
 </p>
 
 ---
 
-# 🧠 Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou profissional de tecnologia com experiência em:
+Atuo na interseção entre **cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica, automação e pensamento estratégico.
 
-- 🔴 **Segurança Ofensiva / Pentest**
-- 🕸️ **Web Hacking**
-- 🖥️ **Infraestrutura Linux e Redes**
-- ⚙️ **Automação e Shell Script**
-- 🧑‍💻 **Desenvolvimento Web e Backend**
+Minha experiência envolve:
 
-Minha abordagem combina **mentalidade analítica, estratégia e prática constante em ambientes reais e labs de segurança**.
+- 🔎 **Pentest em aplicações web e infraestrutura**
+- 🛡️ **Análise de vulnerabilidades e hardening**
+- ⚙️ **Automação de processos de segurança**
+- 🧠 **OSINT e análise de dados públicos**
+- 💻 **Desenvolvimento backend e APIs**
+- 🖧 **Infraestrutura Linux e redes**
 
-Acredito que segurança não é apenas encontrar vulnerabilidades, mas **entender sistemas profundamente**.
-
----
-
-# ⚔️ Áreas de Interesse
-
-- Web Application Security
-- Network Security
-- Vulnerability Research
-- Red Team
-- Pentest Automation
-- CTFs e Labs de exploração
+Minha formação técnica vem de experiência prática em **segurança ofensiva, desenvolvimento de software e administração de redes**, aliada à disciplina e mentalidade estratégica adquiridas na carreira militar.
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/>
-</p>
+- Java  
+- JavaScript  
+- Python  
+- C#  
+- Bash / Shell Script  
 
-### Desenvolvimento Web
+### Desenvolvimento
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
-</p>
+- Backend Java
+- APIs REST
+- Vue.js
+- HTML / CSS / Bootstrap
+
+### Segurança Ofensiva
+
+- Pentest Web
+- Reconhecimento e OSINT
+- Exploração de vulnerabilidades
+- Red Team Operations
+- Bug Bounty
 
 ### Infraestrutura
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30"/>
-</p>
+- Linux
+- Kali Linux
+- Redes
+- Automação
+- Hardening
 
 ### Ferramentas
 
-- Kali Linux
+- Git / GitHub / GitLab
 - Burp Suite
 - Nmap
-- Wireshark
 - Metasploit
-- Git
-- Docker
+- Wireshark
+- OSINT Frameworks
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🔎 RootID — OSINT Intelligence Tool
+
+Ferramenta de **OSINT automatizado** para coleta e análise de dados públicos.
+
+Arquitetura híbrida:
+
+- Serper.dev → coleta de dados do Google
+- Gemini AI → análise inteligente e geração de relatórios
+
+Funções:
+
+- coleta automatizada de dados públicos
+- análise contextual
+- geração de relatórios estruturados
+- score de confiabilidade
+
+Projeto utilizado como base para **ferramenta corporativa de análise de candidatos**.
+
+🔗  
+https://github.com/Samuel-Ziger/RootId
+
+---
+
+## 🔴 Setup Red Team
+
+Repositório profissional com **infraestrutura completa para operações de Red Team e Pentest**.
+
+Características:
+
+- mais de **90 ferramentas organizadas**
+- automação de ambientes **Windows e Kali**
+- estrutura profissional para pentest
+- organização por propósito (recon, exploração, credenciais etc.)
+
+Inclui ferramentas para:
+
+- Recon
+- OSINT
+- exploração web
+- engenharia social
+- análise estática
+- segurança mobile
+
+🔗  
+https://github.com/Samuel-Ziger/SetupRedTeam
+
+---
+
+## 🎓 RedTeam Essentials
+
+Projeto educacional voltado ao aprendizado estruturado de **Red Team e Pentest Ético**.
+
+Inclui:
+
+- roadmap completo de estudos
+- mapeamento MITRE ATT&CK
+- scripts de automação
+- cheatsheets técnicos
+- playbooks de resposta a incidentes
+- templates profissionais de relatório
+
+Conteúdo organizado em **4 níveis de aprendizado**:
+
+1️⃣ Fundamentos  
+2️⃣ Intermediário  
+3️⃣ Avançado  
+4️⃣ Profissional  
+
+🔗  
+https://github.com/Samuel-Ziger/RedTeam-Essentials
+
+---
+
+## 📚 Portfólio de Certificados
+
+Repositório centralizado com certificados em:
+
+- Pentest
+- Cibersegurança
+- Redes
+- Programação
+- Inteligência Artificial
+- Engenharia de Prompt
+
+Organizado por área para facilitar consulta profissional.
+
+🔗  
+https://github.com/Samuel-Ziger/Certificado
 
 ---
 
 # 💼 Experiência
 
-### Segurança Ofensiva / Pentest
-**A Divisão / Plano de Chamada — 2025**
+### Pentester e Desenvolvedor  
+A Divisão | Hub de Soluções para Militares  
+2026 – Atual
 
-- Testes de intrusão em ambientes controlados
-- Identificação e exploração de vulnerabilidades
-- Hardening de sistemas
-- Produção de relatórios técnicos
-
----
-
-### Backend Developer
-**APPdaTurma — 2025**
-
-- Desenvolvimento de APIs
-- Integrações backend
-- Arquitetura de serviços
+- testes de segurança em aplicações web
+- identificação e mitigação de vulnerabilidades
+- desenvolvimento de ferramenta OSINT corporativa
+- análise automatizada de dados públicos com IA
 
 ---
 
-### Desenvolvimento Web
-**Photo Now — 2025**
+### Desenvolvedor Full Stack  
+Photo Now  
+2026 – Atual
 
-- Desenvolvimento de sistemas web
-- Automação de processos
-- E-commerce e manutenção de aplicações
+- evolução de Frontend (Vue.js) para Full Stack
+- integração backend Java
+- desenvolvimento de aplicações web completas
 
 ---
 
-### Infraestrutura e Redes
-**Exército Brasileiro — 2022 - 2026**
+### Pentest / Bug Bounty  
+HackerOne  
+2025 – Atual
 
-- Manutenção de redes
-- Administração de sistemas
-- Suporte técnico e infraestrutura
+- identificação e reporte responsável de vulnerabilidades
+- reconhecimento e exploração em aplicações web
+
+---
+
+### Militar — Infraestrutura e Redes  
+Exército Brasileiro  
+2022 – 2026
+
+- administração de redes
+- manutenção de infraestrutura
+- suporte técnico
+- liderança de equipe
 
 ---
 
 # 🎓 Formação
 
-- Análise e Desenvolvimento de Sistemas — Estácio  
-- Técnico em Informática  
-- Cursos de Segurança Ofensiva e Pentest
-
-Certificações:
-
-- Cisco — Cyber Threat Management
-- Cisco — Ethical Hacking
-- Cisco — Introduction to Cybersecurity
+Análise e Desenvolvimento de Sistemas  
+Estácio  
+2024 – 2026
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📜 Certificações
+
+Cisco:
+
+- Ethical Hacker
+- Cyber Threat Management
+- Introduction to Cybersecurity
+
+Desec Security:
+
+- Introdução ao Pentest na Prática
+
+Outros cursos incluem:
+
+- Pentest Web
+- Pentest Wireless
+- Engenharia de Prompt
+- LLMs e IA aplicada
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&show_icons=true&theme=dracula"/>
@@ -141,8 +247,27 @@ Certificações:
 
 # 🌐 Contato
 
-<p align="center">
-<a href="mailto:samuelziger01@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/samuel-ziger-237524357/">LinkedIn</a> •
-<a href="https://t.me/Samuel_ziger">Telegram</a>
-</p>
+LinkedIn  
+https://www.linkedin.com/in/samuel-ziger-237524357/
+
+GitHub  
+https://github.com/Samuel-Ziger
+
+Email  
+samuelziger01@gmail.com
+
+---
+
+# ⚖️ Ética
+
+Todo conteúdo relacionado a segurança ofensiva é desenvolvido para:
+
+- pesquisa
+- aprendizado
+- testes autorizados
+
+Nunca utilize técnicas de segurança ofensiva sem autorização formal.
+
+---
+
+⭐ Se algum projeto for útil para você, considere deixar uma estrela.
