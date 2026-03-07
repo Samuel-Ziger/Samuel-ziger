@@ -27,7 +27,17 @@ Minha experiência envolve:
 Minha formação técnica vem de experiência prática em **segurança ofensiva, desenvolvimento de software e administração de redes**, aliada à disciplina e mentalidade estratégica adquiridas na carreira militar.
 
 ---
+###Área principal
 
+Pentest / Segurança ofensiva
+
+###Áreas de apoio
+
+backend
+
+automação
+
+OSINT
 # 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
@@ -52,7 +62,7 @@ Minha formação técnica vem de experiência prática em **segurança ofensiva,
 - Exploração de vulnerabilidades
 - Red Team Operations
 - Bug Bounty
-
+- lateral movement
 ### Infraestrutura
 
 - Linux
