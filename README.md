@@ -162,6 +162,25 @@ Organizado por área para facilitar consulta profissional.
 
 🔗  
 https://github.com/Samuel-Ziger/Certificado
+## 🎓 Curso de Segurança Cibernética e Engenharia Social
+
+Material utilizado em um treinamento ministrado para membros da **A Divisão**, abordando fundamentos de segurança cibernética e técnicas de engenharia social utilizadas em ataques reais.
+
+O conteúdo foi desenvolvido com foco educacional e profissional, demonstrando como ataques baseados em manipulação humana funcionam e como organizações podem se defender.
+
+Tópicos abordados:
+
+- fundamentos de cibersegurança
+- engenharia social e manipulação psicológica
+- técnicas de phishing
+- reconhecimento e coleta de informações (OSINT)
+- vetores comuns de ataque humano
+- boas práticas de defesa e conscientização
+
+O material foi estruturado para **treinamentos, conscientização de segurança e capacitação técnica**.
+
+🔗  
+https://github.com/Samuel-Ziger/CursoSegurancaCibernetica
 
 ---
 
