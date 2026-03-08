@@ -229,7 +229,7 @@ https://www.tiktok.com/@zonadesegurancadigital
 
 ### Pentester e Desenvolvedor  
 A Divisão | Hub de Soluções para Militares  
-2026 – Atual
+2025 – Atual
 
 - testes de segurança em aplicações web
 - identificação e mitigação de vulnerabilidades
@@ -240,7 +240,7 @@ A Divisão | Hub de Soluções para Militares
 
 ### Desenvolvedor Full Stack  
 Photo Now  
-2026 – Atual
+2025 – Atual
 
 - evolução de Frontend (Vue.js) para Full Stack
 - integração backend Java
