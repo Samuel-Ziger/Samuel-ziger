@@ -1,7 +1,7 @@
 <h1 align="center">Samuel Ziger</h1>
 
 <h3 align="center">
-Cybersecurity • Offensive Security • Pentest • Backend Development
+Cybersecurity • Offensive Security • Pentest • Backend Development • Solyd Certified Pentester (SYCP)
 </h3>
 
 <p align="center">
