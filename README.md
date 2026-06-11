@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Samuel+Ziger;Offensive+Security+%7C+Red+Team+%7C+Backend" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Samuel+Ziger;Offensive+Security+%7C+Red+Team"/>
 </h1>
 
 <h3 align="center">
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar vulnerabilidades críticas e desenvolver soluções de segurança robustas.
+Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar vulnerabilidades, desenvolver soluções seguras e operacionalizar estratégias de proteção de infraestrutura.
 
 ### 🎯 Áreas de Especialização
 
