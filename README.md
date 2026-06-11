@@ -1,4 +1,6 @@
-<h1 align="center">Samuel Ziger</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Samuel+Ziger;Offensive+Security+%7C+Red+Team+%7C+Backend" alt="Header" />
+</h1>
 
 <h3 align="center">
 🛡️ Cybersecurity Specialist | Offensive Security & Pentest | Backend Developer | Red Team Operations
@@ -12,7 +14,7 @@
 <p align="center">
   <a href="#-sobre-mim">Sobre</a> •
   <a href="#-principais-projetos">Projetos</a> •
-  <a href="#-tecnologias-e-ferramentas">Tech Stack</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-experiência-profissional">Experiência</a> •
   <a href="#-contato">Contato</a>
 </p>
@@ -21,7 +23,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar e mitigar riscos reais.
+Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar vulnerabilidades críticas e desenvolver soluções de segurança robustas.
 
 ### 🎯 Áreas de Especialização
 
@@ -37,6 +39,42 @@ Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraes
 ---
 
 ## 🚀 Principais Projetos
+
+### 🔴 **GHOSTRECON** — Reconnaissance Ofensivo Automatizado
+Ferramenta profissional de reconhecimento ofensivo com automação avançada para operações de segurança.
+
+**Características:**
+- ✅ Coleta automatizada e inteligente de informações
+- ✅ Reconhecimento de alvos em operações Red Team
+- ✅ Mapeamento de superfície de ataque
+- ✅ Integração com múltiplas fontes de inteligência
+
+🔗 [GHOSTRECON Repository](https://github.com/Samuel-Ziger/GHOSTRECON)
+
+---
+
+### 🏆 **SYCP — Solyd Certified Pentester**
+
+> **Exame 100% Prático com Comprometimento Real de Sistemas**
+
+Certificação especializada com foco em pentest web prático, desenvolvida pela **Solyd**. Diferencial: validação através de operações reais contra infraestrutura controlada.
+
+**Badge de Certificação:**
+```
+🎓 SYCP Certified — Solyd Certified Pentester
+   Exame prático com acesso irrestrito a sistemas alvo
+   Validação de skills ofensivos em ambiente real
+```
+
+**Importância Técnica:**
+- 🔴 Pentest Web prático contra infraestrutura real
+- 🔍 Exploração de vulnerabilidades em contexto autêntico
+- 📋 Desenvolvimento de relatórios profissionais
+- 🎯 Validação hands-on de conhecimento ofensivo
+
+🔗 [Portfólio de Certificações](https://github.com/Samuel-Ziger/Certificado)
+
+---
 
 ### 🔴 **SetupRedTeam** — Infraestrutura Profissional para Red Team & Pentest
 Repositório com **90+ ferramentas organizadas** e infraestrutura completa para operações profissionais.
@@ -109,13 +147,6 @@ Material de treinamento em segurança cibernética e engenharia social para orga
 
 ---
 
-### 📜 **Portfólio de Certificações & Credenciais**
-Centralização de certificados profissionais em pentest, cibersegurança, redes, programação e IA.
-
-🔗 [Certificados & Credenciais](https://github.com/Samuel-Ziger/Certificado)
-
----
-
 ## 💼 Experiência Profissional
 
 ### **Pentester & Desenvolvedor**
@@ -141,9 +172,12 @@ Centralização de certificados profissionais em pentest, cibersegurança, redes
 ### **Bug Bounty Researcher**
 **HackerOne** | 2025 – Atual
 
-- 🐛 Identificação responsável de vulnerabilidades
+- 🐛 Identificação e reporte responsável de vulnerabilidades
 - 🔎 Reconhecimento e exploração em aplicações web
 - 📋 Reporte estruturado de achados de segurança
+- 🎯 Foco em vulnerabilidades críticas com impacto real
+
+**Programa:** HackerOne | Status: Ativo em reconhecimento contínuo
 
 ---
 
@@ -157,7 +191,7 @@ Centralização de certificados profissionais em pentest, cibersegurança, redes
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
 ### **Linguagens de Programação**
 ```
@@ -209,7 +243,7 @@ Docker • Kubernetes • Cloud Security
 - ✅ Introduction to Cybersecurity
 
 **Especializado em Segurança:**
-- ✅ Solyd Certified Pentester (SYCP)
+- ✅ **Solyd Certified Pentester (SYCP)** — Exame prático 100%
 - ✅ Pentest Web & Wireless (Desec Security)
 - ✅ Introdução ao Pentest na Prática
 
@@ -270,17 +304,6 @@ Todo o conteúdo e ferramentas relacionados a **segurança ofensiva** são desen
 ✅ Defesa de sistemas
 
 ⚠️ **Nunca utilize técnicas de segurança ofensiva sem autorização formal e escrita do proprietário do sistema.**
-
----
-
-## 📈 Sobre Este README
-
-Este README foi estruturado para refletir:
-- 📊 Portfolio técnico diverso
-- 🎯 Foco profissional e impacto
-- 🔗 Projetos reais com casos de uso
-- 💼 Experiência combinada (ofensiva + desenvolvimento)
-- 🌟 Contribuição à educação de segurança
 
 ---
 
