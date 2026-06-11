@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Vulnerability+Explorer;Defense+Builder;Red+Team+Operator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Vulnerability+Explorer;Defense+Builder;Red+Team+Operator;Security+Researcher" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar e mitigar riscos de segurança. Sou um profissional com foco em **operações ofensivas legítimas**, desenvolvimento de ferramentas de segurança e educação digital.
+Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar e mitigar riscos críticos. Meu trabalho envolve desde operações de Red Team até desenvolvimento de ferramentas de OSINT com IA.
 
 ### 🎯 Áreas de Especialização
 
@@ -227,23 +227,16 @@ Docker • Kubernetes • Cloud Security
 
 ### 🏆 **Certificação Especializada — SYCP (Solyd Certified Pentester)**
 
-<div style="background: linear-gradient(135deg, #FF0000 0%, #8B0000 100%); padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #FFD700;">
-  <h4 style="color: white; margin-top: 0;">🎓 Solyd Certified Pentester (SYCP)</h4>
-  <p style="color: #FFF; font-weight: bold;">Exame 100% Prático com Comprometimento Real de Sistemas</p>
-  
-  <p style="color: #FFF; margin-bottom: 10px;">Certificação especializada com foco em pentest web prático, validando skills ofensivos através de operações reais contra infraestrutura controlada.</p>
-  
-  <p style="color: #FFF; font-size: 0.95em; margin-bottom: 0;">
-    ✅ Pentest Web prático contra infraestrutura real<br>
-    ✅ Exploração de vulnerabilidades em contexto autêntico<br>
-    ✅ Desenvolvimento de relatórios profissionais<br>
-    ✅ Validação hands-on de conhecimento ofensivo
-  </p>
-  
-  <p style="color: #FFD700; margin-top: 15px; margin-bottom: 0;">
-    <strong>Credencial:</strong> <a href="https://github.com/Samuel-Ziger/Certificado" style="color: #FFD700; text-decoration: none;">Portfólio de Certificações →</a>
-  </p>
-</div>
+> 🏆 **Solyd Certified Pentester (SYCP)** — Exame 100% prático com comprometimento real de sistemas
+>
+> Certificação especializada com foco em pentest web prático, validando skills ofensivos através de operações reais contra infraestrutura controlada.
+>
+> ✅ Pentest Web prático contra infraestrutura real  
+> ✅ Exploração de vulnerabilidades em contexto autêntico  
+> ✅ Desenvolvimento de relatórios profissionais  
+> ✅ Validação hands-on de conhecimento ofensivo  
+>
+> 🔗 [Portfólio de Certificações →](https://github.com/Samuel-Ziger/Certificado)
 
 ---
 
