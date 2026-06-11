@@ -1,333 +1,293 @@
 <h1 align="center">Samuel Ziger</h1>
 
 <h3 align="center">
-Cybersecurity • Offensive Security • Pentest • Backend Development • Solyd Certified Pentester (SYCP)
+🛡️ Cybersecurity Specialist | Offensive Security & Pentest | Backend Developer | Red Team Operations
 </h3>
 
 <p align="center">
-Pentester e desenvolvedor com experiência em segurança ofensiva, desenvolvimento backend e infraestrutura.  
-Foco em identificar vulnerabilidades reais, desenvolver soluções seguras e automatizar processos de segurança.
+  <strong>Pentester e desenvolvedor com expertise em segurança ofensiva, operações de Red Team, automação de segurança e desenvolvimento backend</strong><br>
+  Foco em identificar vulnerabilidades críticas, desenvolver soluções seguras, automatizar processos defensivos e educar sobre segurança digital.
 </p>
-
----
-
-# 👨‍💻 Sobre mim
-
-Atuo na interseção entre **cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica, automação e pensamento estratégico.
-
-Minha experiência envolve:
-
-- 🔎 **Pentest em aplicações web e infraestrutura**
-- 🛡️ **Análise de vulnerabilidades e hardening**
-- ⚙️ **Automação de processos de segurança**
-- 🧠 **OSINT e análise de dados públicos**
-- 💻 **Desenvolvimento backend e APIs**
-- 🖧 **Infraestrutura Linux e redes**
-
-Minha formação técnica vem de experiência prática em **segurança ofensiva, desenvolvimento de software e administração de redes**, aliada à disciplina e mentalidade estratégica adquiridas na carreira militar.
-
----
-### Área principal
-
-Pentest / Segurança ofensiva
-
-### Áreas de apoio
-
-backend
-
-automação
-
-OSINT
-# 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-
-- Java  
-- JavaScript  
-- Python  
-- C#  
-- Bash / Shell Script  
-
-### Desenvolvimento
-
-- Backend Java
-- APIs REST
-- Vue.js
-- HTML / CSS / Bootstrap
-
-### Segurança Ofensiva
-
-- Pentest Web
-- Reconhecimento e OSINT
-- Exploração de vulnerabilidades
-- Red Team Operations
-- Bug Bounty
-- lateral movement
-### Infraestrutura
-
-- Linux
-- Kali Linux
-- Redes
-- Automação
-- Hardening
-
-### Ferramentas
-
-- Git / GitHub / GitLab
-- Burp Suite
-- Nmap
-- Metasploit
-- Wireshark
-- OSINT Frameworks
-
----
-
-# 🚀 Projetos em Destaque
-
-## 🔎 RootID — OSINT Intelligence Tool
-
-Ferramenta de **OSINT automatizado** para coleta e análise de dados públicos.
-
-Arquitetura híbrida:
-
-- Serper.dev → coleta de dados do Google
-- Gemini AI → análise inteligente e geração de relatórios
-
-Funções:
-
-- coleta automatizada de dados públicos
-- análise contextual
-- geração de relatórios estruturados
-- score de confiabilidade
-
-Projeto utilizado como base para **ferramenta corporativa de análise de candidatos**.
-
-🔗  
-https://github.com/Samuel-Ziger/RootId
-
----
-
-## 🔴 Setup Red Team
-
-Repositório profissional com **infraestrutura completa para operações de Red Team e Pentest**.
-
-Características:
-
-- mais de **90 ferramentas organizadas**
-- automação de ambientes **Windows e Kali**
-- estrutura profissional para pentest
-- organização por propósito (recon, exploração, credenciais etc.)
-
-Inclui ferramentas para:
-
-- Recon
-- OSINT
-- exploração web
-- engenharia social
-- análise estática
-- segurança mobile
-
-🔗  
-https://github.com/Samuel-Ziger/SetupRedTeam
-
----
-
-## 🎓 RedTeam Essentials
-
-Projeto educacional voltado ao aprendizado estruturado de **Red Team e Pentest Ético**.
-
-Inclui:
-
-- roadmap completo de estudos
-- mapeamento MITRE ATT&CK
-- scripts de automação
-- cheatsheets técnicos
-- playbooks de resposta a incidentes
-- templates profissionais de relatório
-
-Conteúdo organizado em **4 níveis de aprendizado**:
-
-1️⃣ Fundamentos  
-2️⃣ Intermediário  
-3️⃣ Avançado  
-4️⃣ Profissional  
-
-🔗  
-https://github.com/Samuel-Ziger/RedTeam-Essentials
-
----
-
-## 📚 Portfólio de Certificados
-
-Repositório centralizado com certificados em:
-
-- Pentest
-- Cibersegurança
-- Redes
-- Programação
-- Inteligência Artificial
-- Engenharia de Prompt
-
-Organizado por área para facilitar consulta profissional.
-
-🔗  
-https://github.com/Samuel-Ziger/Certificado
-## 🎓 Curso de Segurança Cibernética e Engenharia Social
-
-Material utilizado em um treinamento ministrado para membros da **A Divisão**, abordando fundamentos de segurança cibernética e técnicas de engenharia social utilizadas em ataques reais.
-
-O conteúdo foi desenvolvido com foco educacional e profissional, demonstrando como ataques baseados em manipulação humana funcionam e como organizações podem se defender.
-
-Tópicos abordados:
-
-- fundamentos de cibersegurança
-- engenharia social e manipulação psicológica
-- técnicas de phishing
-- reconhecimento e coleta de informações (OSINT)
-- vetores comuns de ataque humano
-- boas práticas de defesa e conscientização
-
-O material foi estruturado para **treinamentos, conscientização de segurança e capacitação técnica**.
-
-🔗  
-https://github.com/Samuel-Ziger/CursoSegurancaCibernetica
-# 📱 Conteúdo Educacional — Segurança Digital
-
-Além da atuação técnica em cibersegurança, também produzo conteúdo educacional voltado ao público geral, com o objetivo de ajudar pessoas comuns a se protegerem na internet.
-
-O foco é traduzir conceitos de segurança digital de forma simples, prática e acessível, combatendo golpes online e aumentando a conscientização sobre privacidade e proteção de dados.
-
-### 🎯 Conteúdos abordados
-
-- golpes online (phishing, golpes do WhatsApp, Pix, redes sociais)
-- identificação de fraudes digitais
-- proteção de contas e autenticação segura
-- privacidade digital
-- segurança em redes sociais
-- proteção de dados pessoais
-- educação digital para iniciantes
-
-A proposta é **levar conhecimento de cibersegurança para quem não é da área**, ajudando usuários comuns a reconhecer riscos e navegar na internet com mais segurança.
-
-### 📲 TikTok
-
-Zona de Segurança Digital
-
-Conteúdo focado em:
-
-- alertas sobre golpes digitais
-- dicas rápidas de segurança
-- educação digital
-- proteção de contas e dados
-
-🔗  
-https://www.tiktok.com/@zonadesegurancadigital
-
----
-
-# 💼 Experiência
-
-### Pentester e Desenvolvedor  
-A Divisão | Hub de Soluções para Militares  
-2025 – Atual
-
-- testes de segurança em aplicações web
-- identificação e mitigação de vulnerabilidades
-- desenvolvimento de ferramenta OSINT corporativa
-- análise automatizada de dados públicos com IA
-
----
-
-### Desenvolvedor Full Stack  
-Photo Now  
-2025 – Atual
-
-- evolução de Frontend (Vue.js) para Full Stack
-- integração backend Java
-- desenvolvimento de aplicações web completas
-
----
-
-### Pentest / Bug Bounty  
-HackerOne  
-2025 – Atual
-
-- identificação e reporte responsável de vulnerabilidades
-- reconhecimento e exploração em aplicações web
-
----
-
-### Militar — Infraestrutura e Redes  
-Exército Brasileiro  
-2022 – 2026
-
-- administração de redes
-- manutenção de infraestrutura
-- suporte técnico
-- liderança de equipe
-
----
-
-# 🎓 Formação
-
-Análise e Desenvolvimento de Sistemas  
-Estácio  
-2024 – 2026
-
----
-
-# 📜 Certificações
-
-Cisco:
-
-- Ethical Hacker
-- Cyber Threat Management
-- Introduction to Cybersecurity
-
-Desec Security:
-
-- Introdução ao Pentest na Prática
-
-Outros cursos incluem:
-
-- Pentest Web
-- Pentest Wireless
-- Engenharia de Prompt
-- LLMs e IA aplicada
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&show_icons=true&theme=dracula"/>
+  <a href="#-sobre-mim">Sobre</a> •
+  <a href="#-principais-projetos">Projetos</a> •
+  <a href="#-tecnologias-e-ferramentas">Tech Stack</a> •
+  <a href="#-experiência-profissional">Experiência</a> •
+  <a href="#-contato">Contato</a>
 </p>
 
 ---
 
-# 🌐 Contato
+## 👨‍💻 Sobre mim
 
-LinkedIn  
-https://www.linkedin.com/in/samuel-ziger-237524357/
+Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar e mitigar riscos reais.
 
-GitHub  
-https://github.com/Samuel-Ziger
+### 🎯 Áreas de Especialização
 
-Email  
-samuelziger01@gmail.com
-
----
-
-# ⚖️ Ética
-
-Todo conteúdo relacionado a segurança ofensiva é desenvolvido para:
-
-- pesquisa
-- aprendizado
-- testes autorizados
-
-Nunca utilize técnicas de segurança ofensiva sem autorização formal.
+| Área | Descrição |
+|------|-----------|
+| **🔴 Pentest & Red Team** | Testes de segurança em aplicações web, infraestrutura e operações de Red Team |
+| **🔎 OSINT & Inteligência** | Coleta, análise e correlação de dados públicos com IA para inteligência de ameaças |
+| **🛡️ Vulnerabilidades** | Identificação, análise e mitigação de vulnerabilidades críticas |
+| **⚙️ Automação de Segurança** | Desenvolvimento de ferramentas para automatizar testes e processos de segurança |
+| **💻 Backend & APIs** | Desenvolvimento de aplicações web seguras, APIs REST e infraestrutura |
+| **📚 Educação Digital** | Conteúdo educacional de segurança para público geral e profissionais |
 
 ---
 
-⭐ Se algum projeto for útil para você, considere deixar uma estrela.
+## 🚀 Principais Projetos
+
+### 🔴 **SetupRedTeam** — Infraestrutura Profissional para Red Team & Pentest
+Repositório com **90+ ferramentas organizadas** e infraestrutura completa para operações profissionais.
+
+**Características:**
+- ✅ Mais de 90 ferramentas para pentest organizadas por propósito
+- ✅ Automação de ambientes Windows e Kali Linux
+- ✅ Scripts de recon, exploração web, engenharia social, análise estática
+- ✅ Estrutura profissional pronta para uso em operações reais
+
+📌 **Impacto:** Utilizado como base para infraestrutura de testes em organizações profissionais.
+
+🔗 [SetupRedTeam Repository](https://github.com/Samuel-Ziger/SetupRedTeam)
+
+---
+
+### 🔎 **RootID** — OSINT Intelligence & Threat Analysis Platform
+Ferramenta de OSINT automatizado com integração de IA para análise inteligente de dados públicos.
+
+**Arquitetura & Funcionalidades:**
+- **Data Collection:** Serper.dev + Google Search API
+- **IA Analysis:** Google Gemini para análise contextual e geração de relatórios
+- **Features:**
+  - Coleta automatizada de dados públicos
+  - Análise correlacionada e contextualizada
+  - Geração de relatórios estruturados
+  - Score de confiabilidade e risco
+
+💼 **Caso de Uso Real:** Desenvolvida como base para ferramenta corporativa de análise de candidatos em contexto militar.
+
+🔗 [RootID Repository](https://github.com/Samuel-Ziger/RootId)
+
+---
+
+### 📚 **RedTeam Essentials** — Guia Completo de Pentest Ético & Red Team
+Projeto educacional com **roadmap estruturado, playbooks e templates profissionais**.
+
+**Conteúdo Estruturado em 4 Níveis:**
+
+1. **Fundamentos** — Conceitos base de segurança ofensiva
+2. **Intermediário** — Técnicas práticas de pentest
+3. **Avançado** — Operações Red Team complexas
+4. **Profissional** — Padrões da indústria e relatórios
+
+**Inclui:**
+- Mapeamento MITRE ATT&CK
+- Scripts de automação prontos para uso
+- Cheatsheets técnicos por fase de ataque
+- Playbooks de resposta a incidentes
+- Templates profissionais de relatório
+- Frameworks de OSINT
+
+🔗 [RedTeam Essentials Repository](https://github.com/Samuel-Ziger/RedTeam-Essentials)
+
+---
+
+### 🔐 **Conscientização de Segurança Cibernética** — Conteúdo Educacional
+Material de treinamento em segurança cibernética e engenharia social para organizações.
+
+**Tópicos Abordados:**
+- Fundamentos de cibersegurança
+- Engenharia social e manipulação psicológica
+- Técnicas de phishing e vetores de ataque
+- OSINT e reconhecimento
+- Defesa e conscientização de segurança
+
+✅ **Utilização:** Treinamento profissional com membros da A Divisão
+
+🔗 [Curso de Segurança Cibernética](https://github.com/Samuel-Ziger/CursoSegurancaCibernetica)
+
+---
+
+### 📜 **Portfólio de Certificações & Credenciais**
+Centralização de certificados profissionais em pentest, cibersegurança, redes, programação e IA.
+
+🔗 [Certificados & Credenciais](https://github.com/Samuel-Ziger/Certificado)
+
+---
+
+## 💼 Experiência Profissional
+
+### **Pentester & Desenvolvedor**
+**A Divisão — Hub de Soluções para Militares** | 2025 – Atual
+
+- 🔴 Testes de segurança em aplicações web (OWASP Top 10)
+- 🔍 Identificação e mitigação de vulnerabilidades críticas
+- 🧠 Desenvolvimento de ferramenta OSINT corporativa com IA
+- 📊 Análise automatizada de dados públicos e inteligência de ameaças
+- 📝 Elaboração de relatórios técnicos detalhados
+
+---
+
+### **Desenvolvedor Full Stack**
+**Photo Now** | 2025 – Atual
+
+- 🎨 Evolução de Frontend (Vue.js) para Full Stack
+- 🔧 Integração e desenvolvimento Backend (Java)
+- 🌐 Desenvolvimento de aplicações web completas
+
+---
+
+### **Bug Bounty Researcher**
+**HackerOne** | 2025 – Atual
+
+- 🐛 Identificação responsável de vulnerabilidades
+- 🔎 Reconhecimento e exploração em aplicações web
+- 📋 Reporte estruturado de achados de segurança
+
+---
+
+### **Militar — Infraestrutura & Redes**
+**Exército Brasileiro** | 2022 – 2026
+
+- 🖧 Administração e arquitetura de redes
+- 💻 Manutenção e hardening de infraestrutura
+- 👥 Liderança técnica de equipes
+- 🔧 Suporte técnico especializado
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### **Linguagens de Programação**
+```
+Java • Python • JavaScript • TypeScript • C# • Bash / Shell Script • Go
+```
+
+### **Desenvolvimento & Backend**
+```
+Backend Java • APIs REST • Spring Boot • Vue.js • React
+HTML / CSS / Bootstrap • Banco de Dados • ORM
+```
+
+### **Segurança Ofensiva**
+```
+Pentest Web • Red Team Operations • OSINT & Reconhecimento
+Exploração de Vulnerabilidades • Bug Bounty • Lateral Movement
+Engenharia Social • Análise de Malware
+```
+
+### **Ferramentas Profissionais**
+| Categoria | Ferramentas |
+|-----------|------------|
+| **Web Testing** | Burp Suite, OWASP ZAP, Postman |
+| **Network** | Nmap, Wireshark, Metasploit, Aircrack-ng |
+| **OSINT** | Shodan, Censys, theHarvester, OSINT Frameworks |
+| **Infrastructure** | Linux, Kali Linux, Docker, Kubernetes |
+| **Version Control** | Git, GitHub, GitLab |
+| **IA & Automation** | Google Gemini, Serper.dev, Python Automation |
+
+### **Infraestrutura**
+```
+Linux • Kali Linux • Windows • Redes • Automação • Hardening
+Docker • Kubernetes • Cloud Security
+```
+
+---
+
+## 🎓 Formação & Certificações
+
+### **Educação Formal**
+- **Análise e Desenvolvimento de Sistemas**  
+  Estácio | 2024 – 2026
+
+### **Certificações Profissionais**
+
+**Cisco Certified:**
+- ✅ Ethical Hacker (CEH equivalent)
+- ✅ Cyber Threat Management
+- ✅ Introduction to Cybersecurity
+
+**Especializado em Segurança:**
+- ✅ Solyd Certified Pentester (SYCP)
+- ✅ Pentest Web & Wireless (Desec Security)
+- ✅ Introdução ao Pentest na Prática
+
+**IA & Prompt Engineering:**
+- ✅ Engenharia de Prompt
+- ✅ LLMs e IA Aplicada
+
+---
+
+## 📱 Conteúdo Educacional — Zona de Segurança Digital
+
+Além da atuação técnica, produzo **conteúdo educacional de segurança digital** para o público geral, com foco em ajudar pessoas comuns a se protegerem na internet.
+
+### 🎯 Tópicos Abordados
+- 🎣 Identificação de phishing e golpes digitais
+- 🔐 Proteção de contas e autenticação segura
+- 💳 Segurança em transações e Pix
+- 🕵️ Proteção de dados pessoais e privacidade
+- 📱 Segurança em redes sociais
+- ⚠️ Educação digital para iniciantes
+
+### 📲 Social Media
+- **TikTok:** [@zonadesegurancadigital](https://www.tiktok.com/@zonadesegurancadigital)  
+  Alertas sobre golpes, dicas rápidas de segurança e educação digital
+
+---
+
+## 📊 Atividade GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&show_icons=true&theme=dracula&hide=contribs,prs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+| Canal | Link |
+|-------|------|
+| **LinkedIn** | [samuel-ziger-237524357](https://www.linkedin.com/in/samuel-ziger-237524357/) |
+| **GitHub** | [@Samuel-Ziger](https://github.com/Samuel-Ziger) |
+| **Email** | samuelziger01@gmail.com |
+| **TikTok** | [@zonadesegurancadigital](https://www.tiktok.com/@zonadesegurancadigital) |
+
+---
+
+## ⚖️ Ética & Responsabilidade
+
+Todo o conteúdo e ferramentas relacionados a **segurança ofensiva** são desenvolvidos para:
+
+✅ Pesquisa acadêmica e aprendizado  
+✅ Testes autorizados e legais (pentest com scope definido)  
+✅ Conscientização de segurança  
+✅ Defesa de sistemas
+
+⚠️ **Nunca utilize técnicas de segurança ofensiva sem autorização formal e escrita do proprietário do sistema.**
+
+---
+
+## 📈 Sobre Este README
+
+Este README foi estruturado para refletir:
+- 📊 Portfolio técnico diverso
+- 🎯 Foco profissional e impacto
+- 🔗 Projetos reais com casos de uso
+- 💼 Experiência combinada (ofensiva + desenvolvimento)
+- 🌟 Contribuição à educação de segurança
+
+---
+
+<p align="center">
+  <strong>⭐ Se algum projeto ou repositório for útil para você, considere deixar uma estrela! Isso me motiva a continuar desenvolvendo conteúdo de qualidade.</strong>
+</p>
+
+<p align="center">
+  Made with 🛡️ by Samuel Ziger | 2026
+</p>
