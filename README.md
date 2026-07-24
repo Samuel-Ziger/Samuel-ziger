@@ -1,21 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Vulnerability+Explorer;Defense+Builder;Red+Team+Operator;Security+Researcher" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-🛡️ Cybersecurity Specialist | Offensive Security & Pentest | Backend Developer | Red Team Operations
-</h3>
+<h1 align="center">Samuel Ziger</h1>
 
 <p align="center">
-  <strong>Pentester e desenvolvedor com expertise em segurança ofensiva, operações de Red Team, automação de segurança e desenvolvimento backend</strong><br>
-  Foco em identificar vulnerabilidades críticas, desenvolver soluções seguras, automatizar processos defensivos e educar sobre segurança digital.
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3500&pause=900&color=FF3B3B&center=true&vCenter=true&width=820&lines=Pentester+%26+Security+Researcher;Backend+%26+Full+Stack+Developer;Red+Team+Automation;OSINT+%26+Threat+Intelligence"
+    alt="Apresentação de Samuel Ziger"
+  />
+</p>
+
+<p align="center">
+  <strong>Segurança ofensiva, automação, desenvolvimento e infraestrutura.</strong>
+</p>
+
+<p align="center">
+  Desenvolvo ferramentas, conduzo testes de segurança autorizados e transformo processos técnicos em soluções reproduzíveis, documentadas e seguras.
 </p>
 
 <p align="center">
   <a href="#-sobre-mim">Sobre</a> •
-  <a href="#-principais-projetos">Projetos</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-experiência-profissional">Experiência</a> •
+  <a href="#-projetos-em-destaque">Projetos</a> •
+  <a href="#-experiência">Experiência</a> •
+  <a href="#-stack-técnica">Stack</a> •
+  <a href="#-formação-e-certificações">Certificações</a> •
   <a href="#-contato">Contato</a>
 </p>
 
@@ -23,281 +28,281 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo na **interseção entre cibersegurança ofensiva, desenvolvimento e infraestrutura**, combinando análise técnica avançada, automação de segurança e pensamento estratégico para identificar e mitigar riscos críticos. Meu trabalho envolve desde operações de Red Team até desenvolvimento de ferramentas de OSINT com IA.
+Sou **pentester e desenvolvedor**, com atuação em segurança ofensiva, desenvolvimento full stack, automação, OSINT e infraestrutura.
 
-### 🎯 Áreas de Especialização
+Meu foco é identificar riscos de forma responsável, compreender a causa técnica das vulnerabilidades e desenvolver soluções que ajudem tanto na validação ofensiva quanto na correção e prevenção de falhas.
 
-| Área | Descrição |
-|------|-----------|
-| **🔴 Pentest & Red Team** | Testes de segurança em aplicações web, infraestrutura e operações de Red Team |
-| **🔎 OSINT & Inteligência** | Coleta, análise e correlação de dados públicos com IA para inteligência de ameaças |
-| **🛡️ Vulnerabilidades** | Identificação, análise e mitigação de vulnerabilidades críticas |
-| **⚙️ Automação de Segurança** | Desenvolvimento de ferramentas para automatizar testes e processos de segurança |
-| **💻 Backend & APIs** | Desenvolvimento de aplicações web seguras, APIs REST e infraestrutura |
-| **📚 Educação Digital** | Conteúdo educacional de segurança para público geral e profissionais |
+Atualmente, concentro meus estudos e projetos em:
 
----
+* Segurança de aplicações web;
+* Reconhecimento e mapeamento de superfície de ataque;
+* Automação de tarefas de pentest e Red Team;
+* OSINT aplicado à análise de riscos e inteligência;
+* Desenvolvimento de APIs, sistemas web e ferramentas internas;
+* Infraestrutura, redes, hardening e ambientes Linux.
 
-## 🚀 Principais Projetos
-
-### 🔴 **GHOSTRECON** — Reconnaissance Ofensivo Automatizado
-Ferramenta profissional de reconhecimento ofensivo com automação avançada para operações de segurança.
-
-**Características:**
-- ✅ Coleta automatizada e inteligente de informações
-- ✅ Reconhecimento de alvos em operações Red Team
-- ✅ Mapeamento de superfície de ataque
-- ✅ Integração com múltiplas fontes de inteligência
-
-🔗 [GHOSTRECON Repository](https://github.com/Samuel-Ziger/GHOSTRECON)
+> Todo trabalho de segurança apresentado neste perfil é destinado a ambientes próprios, laboratórios ou sistemas com autorização formal.
 
 ---
 
-### 🔴 **SetupRedTeam** — Infraestrutura Profissional para Red Team & Pentest
-Repositório com **90+ ferramentas organizadas** e infraestrutura completa para operações profissionais.
+## 🚀 Projetos em destaque
 
-**Características:**
-- ✅ Mais de 90 ferramentas para pentest organizadas por propósito
-- ✅ Automação de ambientes Windows e Kali Linux
-- ✅ Scripts de recon, exploração web, engenharia social, análise estática
-- ✅ Estrutura profissional pronta para uso em operações reais
+### 🔴 [GHOSTRECON](https://github.com/Samuel-Ziger/GHOSTRECON)
 
-📌 **Impacto:** Utilizado como base para infraestrutura de testes em organizações profissionais.
+Plataforma de reconhecimento e OSINT desenvolvida para centralizar coletas, correlações e análises durante atividades autorizadas de segurança.
 
-🔗 [SetupRedTeam Repository](https://github.com/Samuel-Ziger/SetupRedTeam)
+**Principais recursos:**
 
----
-
-### 🔎 **RootID** — OSINT Intelligence & Threat Analysis Platform
-Ferramenta de OSINT automatizado com integração de IA para análise inteligente de dados públicos.
-
-**Arquitetura & Funcionalidades:**
-- **Data Collection:** Serper.dev + Google Search API
-- **IA Analysis:** Google Gemini para análise contextual e geração de relatórios
-- **Features:**
-  - Coleta automatizada de dados públicos
-  - Análise correlacionada e contextualizada
-  - Geração de relatórios estruturados
-  - Score de confiabilidade e risco
-
-💼 **Caso de Uso Real:** Desenvolvida como base para ferramenta corporativa de análise de candidatos em contexto militar.
-
-🔗 [RootID Repository](https://github.com/Samuel-Ziger/RootId)
+* Coleta automatizada de informações;
+* Mapeamento de superfície de ataque;
+* Integração com diferentes fontes de inteligência;
+* Execução de fluxos de reconhecimento;
+* Organização e geração de resultados para análise técnica.
 
 ---
 
-### 📚 **RedTeam Essentials** — Guia Completo de Pentest Ético & Red Team
-Projeto educacional com **roadmap estruturado, playbooks e templates profissionais**.
+### 🛠️ [SetupRedTeam](https://github.com/Samuel-Ziger/SetupRedTeam)
 
-**Conteúdo Estruturado em 4 Níveis:**
+Repositório para preparação e padronização de ambientes de pentest e Red Team em Windows e Kali Linux.
 
-1. **Fundamentos** — Conceitos base de segurança ofensiva
-2. **Intermediário** — Técnicas práticas de pentest
-3. **Avançado** — Operações Red Team complexas
-4. **Profissional** — Padrões da indústria e relatórios
+**Principais recursos:**
 
-**Inclui:**
-- Mapeamento MITRE ATT&CK
-- Scripts de automação prontos para uso
-- Cheatsheets técnicos por fase de ataque
-- Playbooks de resposta a incidentes
-- Templates profissionais de relatório
-- Frameworks de OSINT
-
-🔗 [RedTeam Essentials Repository](https://github.com/Samuel-Ziger/RedTeam-Essentials)
+* Mais de 90 ferramentas organizadas por finalidade;
+* Scripts para instalação e configuração de ambientes;
+* Recursos para reconhecimento, testes web, OSINT e análise;
+* Estrutura reutilizável para laboratórios e operações autorizadas;
+* Documentação voltada à produtividade e à padronização.
 
 ---
 
-### 🔐 **Conscientização de Segurança Cibernética** — Conteúdo Educacional
-Material de treinamento em segurança cibernética e engenharia social para organizações.
+### 🔎 [RootID](https://github.com/Samuel-Ziger/RootId)
 
-**Tópicos Abordados:**
-- Fundamentos de cibersegurança
-- Engenharia social e manipulação psicológica
-- Técnicas de phishing e vetores de ataque
-- OSINT e reconhecimento
-- Defesa e conscientização de segurança
+Ferramenta de OSINT com integração de inteligência artificial para coleta, correlação e análise contextual de dados públicos.
 
-✅ **Utilização:** Treinamento profissional com membros da A Divisão
+**Arquitetura e funcionalidades:**
 
-🔗 [Curso de Segurança Cibernética](https://github.com/Samuel-Ziger/CursoSegurancaCibernetica)
-
----
-
-## 💼 Experiência Profissional
-
-### **Pentester & Desenvolvedor**
-**A Divisão — Hub de Soluções para Militares** | 2025 – Atual
-
-- 🔴 Testes de segurança em aplicações web (OWASP Top 10)
-- 🔍 Identificação e mitigação de vulnerabilidades críticas
-- 🧠 Desenvolvimento de ferramenta OSINT corporativa com IA
-- 📊 Análise automatizada de dados públicos e inteligência de ameaças
-- 📝 Elaboração de relatórios técnicos detalhados
+* Pesquisa por meio do Serper.dev e Google Search;
+* Análise contextual utilizando Google Gemini;
+* Geração de relatórios estruturados;
+* Correlação de informações públicas;
+* Indicadores de confiabilidade e risco;
+* Base para uma solução corporativa de análise em contexto militar.
 
 ---
 
-### **Desenvolvedor Full Stack**
-**Photo Now** | 2025 – Atual
+### 📚 [RedTeam Essentials](https://github.com/Samuel-Ziger/RedTeam-Essentials)
 
-- 🎨 Evolução de Frontend (Vue.js) para Full Stack
-- 🔧 Integração e desenvolvimento Backend (Java)
-- 🌐 Desenvolvimento de aplicações web completas
+Projeto educacional com trilha de estudos, playbooks, cheatsheets e modelos para segurança ofensiva.
 
----
+**Conteúdo:**
 
-### **Bug Bounty Researcher**
-**HackerOne** | 2025 – Atual
+1. Fundamentos de segurança ofensiva;
+2. Técnicas práticas de pentest;
+3. Operações avançadas de Red Team;
+4. Relatórios, documentação e padrões profissionais.
 
-- 🐛 Identificação e reporte responsável de vulnerabilidades em escopo autorizado
-- 🔍 Reconhecimento e exploração em aplicações web
-
-**Programa:** HackerOne | Status: Ativo em reconhecimento contínuo
+Também inclui referências ao **MITRE ATT&CK**, scripts de automação, estruturas de OSINT, playbooks e modelos de relatório.
 
 ---
 
-### **Militar — Infraestrutura & Redes**
-**Exército Brasileiro** | 2022 – 2026
+### 🔐 [Curso de Segurança Cibernética](https://github.com/Samuel-Ziger/CursoSegurancaCibernetica)
 
-- 🖧 Administração e arquitetura de redes
-- 💻 Manutenção e hardening de infraestrutura
-- 👥 Liderança técnica de equipes
-- 🔧 Suporte técnico especializado
+Material de conscientização e treinamento voltado a segurança digital e engenharia social.
+
+**Tópicos abordados:**
+
+* Fundamentos de cibersegurança;
+* Phishing e golpes digitais;
+* Engenharia social;
+* OSINT e reconhecimento;
+* Proteção de contas e dados;
+* Boas práticas de segurança para organizações e usuários.
+
+O conteúdo já foi utilizado em treinamento com integrantes da **A Divisão**.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experiência
 
-### **Linguagens de Programação**
-```
-Java • Python • JavaScript • TypeScript • C# • Bash / Shell Script • Go
-```
+### Pentester e Desenvolvedor
 
-### **Desenvolvimento & Backend**
-```
-Backend Java • APIs REST • Spring Boot • Vue.js • React
-HTML / CSS / Bootstrap • Banco de Dados • ORM
-```
+**A Divisão — Hub de Soluções para Militares** · 2025 — Atual
 
-### **Segurança Ofensiva**
-```
-Pentest Web • Red Team Operations • OSINT & Reconhecimento
-Exploração de Vulnerabilidades • Bug Bounty • Lateral Movement
-Engenharia Social • Análise de Malware
-```
+* Execução de testes de segurança em aplicações web;
+* Análise de riscos baseada no OWASP Top 10;
+* Identificação, documentação e apoio à mitigação de vulnerabilidades;
+* Desenvolvimento de ferramenta corporativa de OSINT com IA;
+* Automação de coleta e análise de dados públicos;
+* Produção de relatórios técnicos e recomendações de segurança.
 
-### **Ferramentas Profissionais**
-| Categoria | Ferramentas |
-|-----------|------------|
-| **Web Testing** | Burp Suite, OWASP ZAP, Postman |
-| **Network** | Nmap, Wireshark, Metasploit, Aircrack-ng |
-| **OSINT** | Shodan, Censys, theHarvester, OSINT Frameworks |
-| **Infrastructure** | Linux, Kali Linux, Docker, Kubernetes |
-| **Version Control** | Git, GitHub, GitLab |
-| **IA & Automation** | Google Gemini, Serper.dev, Python Automation |
+### Desenvolvedor Full Stack
 
-### **Infraestrutura**
-```
-Linux • Kali Linux • Windows • Redes • Automação • Hardening
-Docker • Kubernetes • Cloud Security
+**Photo Now** · 2025 — Atual
+
+* Desenvolvimento e manutenção de aplicações web;
+* Evolução da atuação em Vue.js para desenvolvimento full stack;
+* Integração com serviços, APIs e componentes de backend;
+* Desenvolvimento backend utilizando Java;
+* Apoio técnico em infraestrutura, implantação e segurança de aplicações.
+
+### Pesquisa Independente em Bug Bounty
+
+**Programas hospedados na HackerOne** · 2025 — Atual
+
+* Reconhecimento e análise de aplicações dentro de escopos autorizados;
+* Validação técnica de vulnerabilidades;
+* Documentação e reporte responsável de falhas;
+* Estudos contínuos de segurança web e metodologias de bug bounty.
+
+### Militar — Infraestrutura e Redes
+
+**Exército Brasileiro** · 2022 — 2026
+
+* Administração e manutenção de redes;
+* Suporte técnico a usuários e sistemas;
+* Manutenção e hardening de infraestrutura;
+* Organização de atividades e liderança de equipes;
+* Diagnóstico e resolução de incidentes técnicos.
+
+---
+
+## 🛠️ Stack técnica
+
+| Categoria                    | Tecnologias e conhecimentos                                       |
+| ---------------------------- | ----------------------------------------------------------------- |
+| **Linguagens principais**    | Python, Java, JavaScript, TypeScript e Bash                       |
+| **Conhecimentos adicionais** | C# e Go                                                           |
+| **Frontend**                 | Vue.js, React, HTML, CSS e Bootstrap                              |
+| **Backend**                  | Java, Spring Boot, APIs REST, bancos de dados e ORM               |
+| **Segurança web**            | Burp Suite, OWASP ZAP, Postman e OWASP Top 10                     |
+| **Redes e exploração**       | Nmap, Wireshark, Metasploit e Aircrack-ng                         |
+| **OSINT**                    | Shodan, Censys, theHarvester, Serper.dev e frameworks de OSINT    |
+| **Infraestrutura**           | Linux, Kali Linux, Windows, Docker, Kubernetes, redes e hardening |
+| **Versionamento**            | Git, GitHub e GitLab                                              |
+| **IA e automação**           | Google Gemini, LLMs e automação com Python                        |
+
+### Áreas de interesse
+
+```text
+Pentest Web • Red Team • Bug Bounty • OSINT
+Automação de Segurança • Backend • APIs • Infraestrutura
+Análise de Vulnerabilidades • Hardening • Threat Intelligence
 ```
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎓 Formação e certificações
 
-### **Educação Formal**
-- **Análise e Desenvolvimento de Sistemas**  
-  Estácio | 2024 – 2026
+### Formação acadêmica
 
-### **Certificações Profissionais**
+**Análise e Desenvolvimento de Sistemas**
+Estácio · 2024 — 2026
 
-**Cisco Certified:**
-- ✅ Ethical Hacker (CEH equivalent)
-- ✅ Cyber Threat Management
-- ✅ Introduction to Cybersecurity
+### Certificação prática
 
-**Especializado em Segurança:**
-- ✅ Pentest Web & Wireless (Desec Security)
-- ✅ Introdução ao Pentest na Prática
+#### 🏆 Solyd Certified Pentester — SYCP
 
-**IA & Prompt Engineering:**
-- ✅ Engenharia de Prompt
-- ✅ LLMs e IA Aplicada
+Certificação prática voltada à execução de pentest web em ambiente controlado, exploração de vulnerabilidades e elaboração de relatório técnico.
 
-### 🏆 **Certificação Especializada — SYCP (Solyd Certified Pentester)**
+* Avaliação prática;
+* Reconhecimento e exploração de aplicações;
+* Validação de vulnerabilidades;
+* Documentação de evidências;
+* Elaboração de relatório profissional.
 
-> 🏆 **Solyd Certified Pentester (SYCP)** — Exame 100% prático com comprometimento real de sistemas
->
-> Certificação especializada com foco em pentest web prático, validando skills ofensivos através de operações reais contra infraestrutura controlada.
->
-> ✅ Pentest Web prático contra infraestrutura real  
-> ✅ Exploração de vulnerabilidades em contexto autêntico  
-> ✅ Desenvolvimento de relatórios profissionais  
-> ✅ Validação hands-on de conhecimento ofensivo  
->
-> 🔗 [Portfólio de Certificações →](https://github.com/Samuel-Ziger/Certificado)
+🔗 [Portfólio de certificados](https://github.com/Samuel-Ziger/Certificado)
 
----
+### Outras formações
 
-## 📱 Conteúdo Educacional — Zona de Segurança Digital
+**Cisco Networking Academy**
 
-Além da atuação técnica, produzo **conteúdo educacional de segurança digital** para o público geral, com foco em ajudar pessoas comuns a se protegerem na internet.
+* Ethical Hacker;
+* Cyber Threat Management;
+* Introduction to Cybersecurity.
 
-### 🎯 Tópicos Abordados
-- 🎣 Identificação de phishing e golpes digitais
-- 🔐 Proteção de contas e autenticação segura
-- 💳 Segurança em transações e Pix
-- 🕵️ Proteção de dados pessoais e privacidade
-- 📱 Segurança em redes sociais
-- ⚠️ Educação digital para iniciantes
+**Segurança ofensiva**
 
-### 📲 Social Media
-- **TikTok:** [@zonadesegurancadigital](https://www.tiktok.com/@zonadesegurancadigital)  
-  Alertas sobre golpes, dicas rápidas de segurança e educação digital
+* Pentest Web e Wireless — Desec Security;
+* Introdução ao Pentest na Prática.
+
+**Inteligência artificial**
+
+* Engenharia de Prompt;
+* LLMs e IA aplicada.
 
 ---
 
-## 📊 Atividade GitHub
+## 📱 Zona de Segurança Digital
+
+Também produzo conteúdo de segurança digital para ajudar pessoas a reconhecer golpes e proteger suas contas, dados e transações.
+
+**Principais temas:**
+
+* Identificação de phishing;
+* Golpes digitais e engenharia social;
+* Segurança de contas e autenticação;
+* Proteção em transações e Pix;
+* Privacidade e proteção de dados;
+* Segurança em redes sociais.
+
+📲 [TikTok — @zonadesegurancadigital](https://www.tiktok.com/@zonadesegurancadigital)
+
+---
+
+## 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&show_icons=true&theme=dracula&hide=contribs,prs"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&show_icons=true&theme=dracula&hide=contribs"
+    alt="Estatísticas do GitHub de Samuel Ziger"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&layout=compact&theme=dracula"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&layout=compact&theme=dracula"
+    alt="Linguagens mais utilizadas por Samuel Ziger"
+  />
 </p>
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Contato
 
-| Canal | Link |
-|-------|------|
-| **LinkedIn** | [samuel-ziger-237524357](https://www.linkedin.com/in/samuel-ziger-237524357/) |
-| **GitHub** | [@Samuel-Ziger](https://github.com/Samuel-Ziger) |
-| **Email** | samuelziger01@gmail.com |
-| **TikTok** | [@zonadesegurancadigital](https://www.tiktok.com/@zonadesegurancadigital) |
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-ziger-237524357/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ziger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Samuel-Ziger">
+    <img src="https://img.shields.io/badge/GitHub-Samuel--Ziger-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:samuelziger01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-samuelziger01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## ⚖️ Ética & Responsabilidade
+## ⚖️ Ética e responsabilidade
 
-Todo o conteúdo e ferramentas relacionados a **segurança ofensiva** são desenvolvidos para:
+Os projetos e conteúdos relacionados a segurança ofensiva são desenvolvidos exclusivamente para:
 
-✅ Pesquisa acadêmica e aprendizado  
-✅ Testes autorizados e legais (pentest com scope definido)  
-✅ Conscientização de segurança  
-✅ Defesa de sistemas
+* Pesquisa e aprendizado;
+* Laboratórios e ambientes controlados;
+* Testes autorizados com escopo definido;
+* Desenvolvimento de mecanismos de defesa;
+* Conscientização e educação em segurança.
 
-⚠️ **Nunca utilize técnicas de segurança ofensiva sem autorização formal e escrita do proprietário do sistema.**
+> ⚠️ Nunca execute testes, varreduras ou técnicas de exploração contra sistemas, aplicações ou redes sem autorização formal e escrita do responsável.
 
 ---
 
 <p align="center">
-  <strong>⭐ Se algum projeto ou repositório for útil para você, considere deixar uma estrela! Isso me motiva a continuar desenvolvendo conteúdo de qualidade.</strong>
+  <strong>Se algum projeto for útil, considere deixar uma ⭐ no repositório.</strong>
 </p>
 
 <p align="center">
-  Made with 🛡️ by Samuel Ziger | 2026
+  Feito com 🛡️ por Samuel Ziger · 2026
 </p>
