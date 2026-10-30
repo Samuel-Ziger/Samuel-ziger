@@ -17,7 +17,8 @@ README.md — perfil em português.
 README.en.md — perfil em inglês.
 assets/banner.png — banner original em preto, grafite e vermelho.
 assets/terminal.svg — terminal animado com quatro frentes de atuação.
-assets/crta.svg e assets/sycp.svg — badges das certificações.
+assets/crta.svg e assets/sycp.svg — badges das certificações práticas.
+assets/ibsec-fundamentals.svg e assets/ibsec-awareness.svg — badges das certificações IBSEC.
 assets/linkedin.svg, assets/email.svg e assets/github.svg — botões de contato.
 assets/signal.svg — divisor visual.
 preview/README-preview.html — prévia local completa em português.
@@ -28,7 +29,11 @@ CERTIFICADOS
 
 As credenciais CRTA, SYCP e as duas certificações complementares do IBSEC foram conferidas nos documentos fornecidos.
 Os links apontam para os caminhos identificados no arquivo Certificado-main.zip, dentro de github.com/Samuel-Ziger/Certificado.
-A estrutura distingue as certificações profissionais dos cursos e formações complementares.
+A estrutura apresenta as quatro certificações profissionais, o vínculo ISC2 Candidate, as formações Cisco e Desec e os 37 cursos documentados no ZIP.
+As datas, os códigos de credencial e as validades adicionais foram informados pelo titular.
+ISC2 Candidate aparece como participação no programa de candidatos; Learn-A-Thon aparece como programa de aprendizagem.
+Os 33 cursos que complementam os quatro destaques Cisco/Desec estão agrupados em seis blocos expansíveis.
+Os links "Validar" foram extraídos dos próprios documentos; não foram criados por dedução.
 
 PERSONALIZAÇÃO
 

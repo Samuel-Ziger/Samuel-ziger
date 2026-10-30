@@ -21,6 +21,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20em%20Ciberseguran%C3%A7a.pdf"><img src="./assets/ibsec-fundamentals.svg" height="32" alt="IBSEC — Certificação Fundamentos em Cibersegurança" /></a>
+  &nbsp;
+  <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Boas%20Praticas%20de%20%20ciberseguran%C3%A7a.pdf"><img src="./assets/ibsec-awareness.svg" height="32" alt="IBSEC — Boas Práticas de Cibersegurança, Cybersecurity Awareness" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/samuel-ziger-237524357/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="mailto:samuelziger01@gmail.com">Email</a>
@@ -34,6 +40,9 @@
   <a href="#toolbox">STACK</a> &nbsp; / &nbsp;
   <a href="#experience">EXPERIÊNCIA</a> &nbsp; / &nbsp;
   <a href="#credentials">CERTIFICAÇÕES</a> &nbsp; / &nbsp;
+  <a href="#learning">FORMAÇÃO</a> &nbsp; / &nbsp;
+  <a href="#knowledge">CONTEÚDO</a> &nbsp; / &nbsp;
+  <a href="#telemetry">ATIVIDADE</a> &nbsp; / &nbsp;
   <a href="#contact">CONTATO</a>
 </p>
 
@@ -163,44 +172,143 @@ Conteúdo sobre phishing, engenharia social, OSINT e boas práticas para protege
 
 ### CRTA · Certified Red Team Analyst
 
-**CyberWarFare Labs** · Outubro de 2026
+**CyberWarFare Labs** · Emitida em **outubro de 2026**  
+**Credencial:** `CRTA-6ae4aac2f88c7cc4d4053011`
 
-Certificação prática em segurança ofensiva, com foco em reconhecimento, exploração de vulnerabilidades e técnicas aplicadas a operações de Red Team.
+Certificação prática em segurança ofensiva e operações de Red Team, com avaliação da identificação e exploração de vulnerabilidades em ambientes controlados.
 
 **[Ver certificado CRTA →](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/CRTA.pdf)**
 
 ### SYCP · Solyd Certified Pentester
 
-**Solyd Offensive Security** · Junho de 2026
+**Solyd Offensive Security** · Emitida em **junho de 2026**
 
-Certificação prática em pentest web, exploração controlada de vulnerabilidades, documentação de evidências e elaboração de relatório técnico.
+Certificação prática em testes de invasão, com identificação e exploração de vulnerabilidades, escalonamento de privilégios, pós-exploração e documentação técnica dos resultados.
 
 **[Ver certificado SYCP →](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Solyd-SYCP.pdf)**
 
+### Fundamentos em Cibersegurança
+
+**IBSEC · Instituto Brasileiro de Cibersegurança**  
+**Emissão:** março de 2026 · **Validade:** março de 2029  
+**Credencial:** `#4d4bb122b0464763`
+
+Certificação em fundamentos de segurança da informação, proteção de dados, mitigação de riscos e boas práticas de cibersegurança.
+
+**[Ver certificado IBSEC →](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20em%20Ciberseguran%C3%A7a.pdf)**
+
+### Boas Práticas de Cibersegurança · Cybersecurity Awareness
+
+**IBSEC · Instituto Brasileiro de Cibersegurança**  
+**Emissão:** março de 2026 · **Validade:** março de 2029  
+**Credencial:** `#69da021d75b0a577`
+
+Certificação em conscientização de segurança, proteção de dados e sistemas e aplicação de boas práticas no ambiente digital.
+
+**[Ver certificado IBSEC →](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Boas%20Praticas%20de%20%20ciberseguran%C3%A7a.pdf)**
+
+### Programa profissional · ISC2 Candidate
+
+**ISC2** · Março de 2026 — março de 2027
+
+Participação no programa de candidatos da ISC2, com o status **ISC2 Candidate**.
+
 **[Consultar portfólio de certificados →](https://github.com/Samuel-Ziger/Certificado)**
 
+---
+
+<a name="learning"></a>
+
+## `06 / learning`
+
+### Cisco Networking Academy
+
+| Curso ou programa | Emissão |
+| :--- | :--- |
+| **[Ethical Hacker](https://github.com/Samuel-Ziger/Certificado/blob/main/Outras%20plataformas/Ethical_Hacker_certificate_girakosam3-gmail-com_55cf545a-daf6-4e17-943e-f0278b1ff0df.pdf)** | out/2025 |
+| **[Cyber Threat Management](https://github.com/Samuel-Ziger/Certificado/blob/main/Outras%20plataformas/Cyber_Threat_Management_certificate_girakosam3-gmail-com_c4b5a345-839e-4953-9201-d2bcf753b303.pdf)** | set/2025 |
+| **[Introduction to Cybersecurity](https://github.com/Samuel-Ziger/Certificado/blob/main/Outras%20plataformas/Introduction_to_Cybersecurity_certificate_girakosam3-gmail-com_9d01f00a-61a9-473d-803e-28a84cac8677.pdf)** | set/2025 |
+| **Networking Academy Learn-A-Thon 2025** | set/2025 |
+
+### Desec Security
+
+**[Introdução ao Pentest na Prática](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/certificado-introducao-pentest.pdf)** · Setembro de 2025  
+**Credencial:** `OXOZ-DJVVJ-VMAX`
+
+### Formação acadêmica
+
+**Análise e Desenvolvimento de Sistemas** · Estácio · 2024 — 2026
+
+### Cursos por área
+
+Formações em segurança ofensiva, sistemas, redes, desenvolvimento e inteligência artificial. Cada título abre o respectivo certificado; os links de validação disponíveis acompanham o curso.
+
 <details>
-<summary><strong>Certificações complementares · IBSEC</strong></summary>
+<summary><strong>Pentest, reconhecimento, Bug Bounty e engenharia social</strong></summary>
 
-- **[Fundamentos em Cibersegurança](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20em%20Ciberseguran%C3%A7a.pdf)** · Março de 2026.
-- **[Boas Práticas de Cibersegurança — Cybersecurity Awareness](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Boas%20Praticas%20de%20%20ciberseguran%C3%A7a.pdf)** · Março de 2026.
-
-Emitidas pelo **Instituto Brasileiro de Cibersegurança (IBSEC)**, com aprovação em exame de conhecimentos e habilidades.
+- **[Docker para Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Docker%20para%20Pentesters.pdf)** — Solyd Offensive Security · mar/2026 · [Validar](https://solyd.com.br/verificar/ye0u6PWPiz).
+- **[Bem vindo a Experiência Riachuelo Cibersegurança](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Bem%20vindo%20a%20Experi%C3%AAncia%20Riachuelo%20Ciberseguran%C3%A7a.pdf)** — DIO / Riachuelo · mar/2026.
+- **[Metodologias de Pentest na Prática](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/curso%20Metodologias%20de%20Pentest%20na%20Pr%C3%A1tica.pdf)** — Solyd Offensive Security · fev/2026 · [Validar](https://solyd.com.br/verificar/mcMC2nG2ar).
+- **[Pós-exploração Linux](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/curso%20P%C3%B3s-explora%C3%A7%C3%A3o%20Linux.pdf)** — Solyd Offensive Security · jan/2026 · [Validar](https://solyd.com.br/verificar/QJ7mE7PqhR).
+- **[Automação e estratégias em Bug Bounty](https://github.com/Samuel-Ziger/Certificado/blob/main/Bug%20Bounty/curso%20Automa%C3%A7%C3%A3o%20e%20estrat%C3%A9gias%20em%20Bug%20Bounty.pdf)** — Solyd Offensive Security · jan/2026 · [Validar](https://solyd.com.br/verificar/UkcRXSoQez).
+- **[Dominando o Recon em Pentest](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Dominando%20o%20Recon%20em%20Pentest.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/jLBFSvoYP0).
+- **[Dominando o Pentest em Infraestrutura de Redes](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Dominando%20o%20Pentest%20em%20Infraestrutura%20de.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/0XymbFAkwP).
+- **[Técnicas de Phishing e Engenharia Social](https://github.com/Samuel-Ziger/Certificado/blob/main/Engenharia%20social/T%C3%A9cnicas%20de%20Phishing%20e%20Engenharia%20Social.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/fduSJD6uKv).
 
 </details>
 
-### Análise e Desenvolvimento de Sistemas
+<details>
+<summary><strong>Segurança web e mobile</strong></summary>
 
-**Estácio** · 2024 — 2026
+- **[Inteligência Artificial para Pentest Web](https://github.com/Samuel-Ziger/Certificado/blob/main/Web/curso%20Intelig%C3%AAncia%20Artificial%20para%20Pentest%20Web.pdf)** — Solyd Offensive Security · jan/2026 · [Validar](https://solyd.com.br/verificar/v6pUWj2VHq).
+- **[Desenvolvimento de Malwares para Android](https://github.com/Samuel-Ziger/Certificado/blob/main/Mobile/curso%20Desenvolvimento%20de%20Malwares%20para%20Android.pdf)** — Solyd Offensive Security · jan/2026 · [Validar](https://solyd.com.br/verificar/bYKdrOGTiO).
+- **[Ataques em Aplicações Web](https://github.com/Samuel-Ziger/Certificado/blob/main/Web/curso%20Ataques%20em%20Aplica%C3%A7%C3%B5es%20Web.pdf)** — Solyd Offensive Security · jan/2026 · [Validar](https://solyd.com.br/verificar/yS4hfUulEB).
+- **[Desenvolvimento Web para Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Web/Desenvolvimento%20Web%20para%20Pentesters.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/HQG9cArw8w).
+
+</details>
 
 <details>
-<summary><strong>Formação complementar</strong></summary>
+<summary><strong>Sistemas, redes e infraestrutura</strong></summary>
 
-- **Cisco Networking Academy:** Ethical Hacker, Cyber Threat Management e Introduction to Cybersecurity.
-- **Solyd Offensive Security:** segurança web, reconhecimento, infraestrutura, Active Directory, pós-exploração e automação para Bug Bounty.
-- **Desec Security:** Introdução ao Pentest na Prática.
-- **Hacking Club:** Hacking para iniciantes.
-- **DIO:** fundamentos de IA, LLMs e engenharia de prompts.
+- **[Pós-exploração Windows e Pentest em Active Directory](https://github.com/Samuel-Ziger/Certificado/blob/main/Sistemas/P%C3%B3s-explora%C3%A7%C3%A3o%20Windows%20e%20Pentest%20em%20Active.pdf)** — Solyd Offensive Security · set/2026 · [Validar](https://solyd.com.br/verificar/rwTBPu14ZX).
+- **[Segurança em Redes Wi-Fi](https://github.com/Samuel-Ziger/Certificado/blob/main/Redes%20e%20infra/Seguran%C3%A7a%20em%20Redes%20Wi-Fi.pdf)** — Solyd Offensive Security · mar/2026 · [Validar](https://solyd.com.br/verificar/lZ0pW8JWVM).
+- **[Introdução ao Sistema Operacional Linux](https://github.com/Samuel-Ziger/Certificado/blob/main/Sistemas/Introdu%C3%A7%C3%A3o%20ao%20Sistema%20Operacional%20Linux.pdf)** — DIO · mar/2026.
+- **[Ataques em Redes Wi-Fi](https://github.com/Samuel-Ziger/Certificado/blob/main/Redes%20e%20infra/curso%20Ataques%20em%20Redes%20Wi-FI.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/0ugGgwxHyp).
+- **[Ataques Denial of Service (DoS) e Botnets](https://github.com/Samuel-Ziger/Certificado/blob/main/Redes%20e%20infra/Ataques%20Denial%20of%20Service%20%28DoS%29%20e%20Botnets.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/MKA09YTWua).
+- **[Dominando o Linux e Shell Script para Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Sistemas/Linux-Shell.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/MWMlsRovmM).
+
+</details>
+
+<details>
+<summary><strong>Fundamentos de segurança</strong></summary>
+
+- **[Hacking para iniciantes](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Hackingparainiciantes.pdf)** — Hacking Club · set/2026 · [Validar](https://app.hackingclub.com/certificate/validate?id=508ba69c-7c16-4d30-8758-786a09d4e595).
+- **[Fundamentos de PowerShell para Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Powershell%20para%20Pentesters.pdf)** — Solyd Offensive Security · mai/2026 · [Validar](https://solyd.com.br/verificar/PCOOdEdhgL).
+- **[Fundamentos de Privacidade e Anonimato](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Privacidade%20e%20Anonimato.pdf)** — Solyd Offensive Security · mar/2026 · [Validar](https://solyd.com.br/verificar/n44nvF001T).
+- **[Princípios da Cibersegurança](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Pr%C3%ADncipios%20da%20ciberseguran%C3%A7a.pdf)** — DIO · mar/2026.
+- **[Fundamentos de Redes para Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Redes%20para%20Pentesters.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/Mibjwri0bz).
+- **[Fundamentos de Criptografia e Senhas](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Criptografia%20e%20Senhas.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/dLJKZij65C).
+- **[Fundamentos de Segurança da Informação e Pentest](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/FundamentosSegInfor.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/HKOFmykr7i).
+- **[Introdução ao Hacking e Pentest 2.0](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Introdu%C3%A7%C3%A3o%20ao%20Hacking%20e%20Pentest%202.0.pdf)** — Solyd Offensive Security · out/2025 · [Validar](https://solyd.com.br/verificar/4DZveGjips).
+
+</details>
+
+<details>
+<summary><strong>Programação e automação</strong></summary>
+
+- **[Fundamentos de C para Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Programa%C3%A7%C3%A3o/curso%20Fundamentos%20de%20C%20para%20Pentesters.pdf)** — Solyd Offensive Security · jan/2026 · [Validar](https://solyd.com.br/verificar/44XZvLiRDb).
+- **[Python Orientado a Objetos e Automação](https://github.com/Samuel-Ziger/Certificado/blob/main/Programa%C3%A7%C3%A3o/Python%20Orientado%20a%20Objetos.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/tCpPSkhRPi).
+- **[Introdução ao Python e Algoritmos](https://github.com/Samuel-Ziger/Certificado/blob/main/Programa%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20ao%20Python%20e%20Algoritmos.pdf)** — Solyd Offensive Security · dez/2025 · [Validar](https://solyd.com.br/verificar/Xkvcr6hG0H).
+
+</details>
+
+<details>
+<summary><strong>Inteligência artificial e engenharia de prompts</strong></summary>
+
+- **[Técnicas de Engenharia de Prompt](https://github.com/Samuel-Ziger/Certificado/blob/main/IA/T%C3%A9cnicas%20de%20Engenharia%20De%20prompt.pdf)** — DIO · mar/2026.
+- **[Introdução à Engenharia de Prompts](https://github.com/Samuel-Ziger/Certificado/blob/main/IA/Introdu%C3%A7%C3%A3o%20%C3%A0%20Engenharia%20de%20prompts.pdf)** — DIO · mar/2026.
+- **[Fundamentos de Modelos de Linguagem de Grande Escala](https://github.com/Samuel-Ziger/Certificado/blob/main/IA/Fundamentos%20de%20Modelos%20de%20Linguagem%20de%20Grande%20Escala.pdf)** — DIO · mar/2026.
+- **[A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes](https://github.com/Samuel-Ziger/Certificado/blob/main/IA/A%20Era%20da%20IA%20Machine%20Learning%2C%20LLMs%2C%20IA%20Generativa%20e%20Agentes.pdf)** — DIO · mar/2026.
 
 </details>
 
@@ -208,7 +316,7 @@ Emitidas pelo **Instituto Brasileiro de Cibersegurança (IBSEC)**, com aprovaç�
 
 <a name="knowledge"></a>
 
-## `06 / knowledge`
+## `07 / knowledge`
 
 No **Zona de Segurança Digital**, produzo conteúdo para ajudar pessoas a reconhecer golpes e proteger contas, dados e transações.
 
@@ -220,7 +328,7 @@ Phishing, engenharia social, autenticação, Pix, privacidade e segurança em re
 
 <a name="telemetry"></a>
 
-## `07 / telemetry`
+## `08 / telemetry`
 
 **[Repositórios públicos](https://github.com/Samuel-Ziger?tab=repositories)** · **[Atividade no perfil](https://github.com/Samuel-Ziger)**
 
@@ -251,7 +359,7 @@ As linguagens exibidas refletem o código dos repositórios públicos e não rep
 
 <a name="contact"></a>
 
-## `08 / connect`
+## `09 / connect`
 
 **Segurança, desenvolvimento e pesquisa. Vamos conversar.**
 
