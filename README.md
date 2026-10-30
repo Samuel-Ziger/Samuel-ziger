@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=27&duration=3500&pause=900&color=FF3B3B&center=true&vCenter=true&width=820&lines=Pentester+%26+Security+Researcher;Full+Stack+Developer;Red+Team+%26+Security+Automation;OSINT+%26+Threat+Intelligence"
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=27&duration=3500&pause=900&color=FF3B3B&center=true&vCenter=true&width=820&lines=Pentester+%26+Security+Researcher;Full+Stack+Dev[...]
     alt="Pentester, pesquisador de segurança e desenvolvedor Full Stack"
   />
 </p>
@@ -67,11 +67,11 @@ Atualmente, concentro meus estudos e projetos em:
 
 | Projeto | O que entrega | Principais destaques |
 | --- | --- | --- |
-| **[GHOSTRECON](https://github.com/Samuel-Ziger/GHOSTRECON)** | Plataforma de reconhecimento e OSINT para operações autorizadas | Coleta automatizada, correlação de fontes, mapeamento de superfície de ataque e relatórios técnicos |
-| **[SetupRedTeam](https://github.com/Samuel-Ziger/SetupRedTeam)** | Preparação padronizada de ambientes de pentest e Red Team | Mais de 90 ferramentas, instalação automatizada e suporte a Windows e Kali Linux |
-| **[RootID](https://github.com/Samuel-Ziger/RootId)** | Ferramenta de OSINT com análise contextual por IA | Serper.dev, Google Gemini, correlação de dados públicos e indicadores de confiabilidade e risco |
-| **[RedTeam Essentials](https://github.com/Samuel-Ziger/RedTeam-Essentials)** | Base educacional de segurança ofensiva | Trilhas de estudo, playbooks, cheatsheets, MITRE ATT&CK e modelos de relatório |
-| **[Curso de Segurança Cibernética](https://github.com/Samuel-Ziger/CursoSegurancaCibernetica)** | Conteúdo de conscientização e treinamento em segurança digital | Phishing, engenharia social, OSINT, proteção de contas e boas práticas organizacionais |
+| **[GHOSTRECON](https://github.com/Samuel-Ziger/GHOSTRECON)** | Plataforma de reconhecimento e OSINT para operações autorizadas | Coleta automatizada, correlação de fontes, mapeamento de superfície de ataque e organização de inteligência |
+| **[SetupRedTeam](https://github.com/Samuel-Ziger/SetupRedTeam)** | Preparação padronizada de ambientes de pentest e Red Team | Mais de 90 ferramentas, instalação automatizada e suporte a Windows, Linux e infraestrutura de laboratório |
+| **[RootID](https://github.com/Samuel-Ziger/RootId)** | Ferramenta de OSINT com análise contextual por IA | Serper.dev, Google Gemini, correlação de dados públicos e indicadores de confiabilidade |
+| **[RedTeam Essentials](https://github.com/Samuel-Ziger/RedTeam-Essentials)** | Base educacional de segurança ofensiva | Trilhas de estudo, playbooks, cheatsheets, MITRE ATT&CK e modelos de relatórios |
+| **[Curso de Segurança Cibernética](https://github.com/Samuel-Ziger/CursoSegurancaCibernetica)** | Conteúdo de conscientização e treinamento em segurança digital | Phishing, engenharia social, autenticação, privacidade e proteção digital |
 
 ---
 
@@ -141,6 +141,10 @@ Atualmente, concentro meus estudos e projetos em:
 
 Certificação prática em pentest web, exploração controlada de vulnerabilidades, documentação de evidências e elaboração de relatório técnico.
 
+### Certified Red Team Analyst — CRTA
+
+Certificação focada em operações de Red Team, simulação ofensiva, análise de infraestrutura, evasão, persistência e validação de controles de segurança.
+
 🔗 **[Ver portfólio de certificados](https://github.com/Samuel-Ziger/Certificado)**
 
 ### Outras formações
@@ -199,7 +203,7 @@ Os temas incluem phishing, engenharia social, autenticação, Pix, privacidade e
 
 ## Ética e responsabilidade
 
-Todo conteúdo relacionado a segurança ofensiva tem finalidade educacional, defensiva ou de pesquisa autorizada. Não execute testes, varreduras ou técnicas de exploração contra sistemas, aplicações ou redes sem autorização formal e escopo definido.
+Todo conteúdo relacionado a segurança ofensiva tem finalidade educacional, defensiva ou de pesquisa autorizada. Não execute testes, varreduras ou técnicas de exploração contra sistemas, aplicações ou redes sem autorização explícita do titular.
 
 <p align="center">
   <strong>Se algum projeto for útil, considere deixar uma ⭐ no repositório.</strong>
