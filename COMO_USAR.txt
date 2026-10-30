@@ -1,0 +1,44 @@
+SAMUEL ZIGER — README CYBER
+
+COMO USAR
+
+1. Extraia o arquivo ZIP.
+2. Coloque README.md, README.en.md e a pasta assets/ na raiz do seu repositório de perfil.
+3. Faça o commit dos arquivos. Preserve exatamente os nomes e a capitalização dos caminhos.
+4. Abra o README no GitHub. O seletor PT-BR / EN alterna entre as duas versões.
+
+Para visualizar antes de enviar, abra preview/README-preview.html no seu navegador.
+
+O README referencia as imagens por caminhos relativos. Envie também a pasta assets/ para que o banner, o terminal e os badges apareçam.
+
+CONTEÚDO DO PACOTE
+
+README.md — perfil em português.
+README.en.md — perfil em inglês.
+assets/banner.png — banner original em preto, grafite e vermelho.
+assets/terminal.svg — terminal animado com quatro frentes de atuação.
+assets/crta.svg e assets/sycp.svg — badges das certificações.
+assets/linkedin.svg, assets/email.svg e assets/github.svg — botões de contato.
+assets/signal.svg — divisor visual.
+preview/README-preview.html — prévia local completa em português.
+preview/README-preview.en.html — prévia local completa em inglês.
+DESIGN.txt — direção visual e especificação do banner.
+
+CERTIFICADOS
+
+As credenciais CRTA, SYCP e as duas certificações complementares do IBSEC foram conferidas nos documentos fornecidos.
+Os links apontam para os caminhos identificados no arquivo Certificado-main.zip, dentro de github.com/Samuel-Ziger/Certificado.
+A estrutura distingue as certificações profissionais dos cursos e formações complementares.
+
+PERSONALIZAÇÃO
+
+- Edite os textos diretamente nos dois READMEs.
+- Para trocar o banner, substitua assets/banner.png.
+- Para alterar a animação, edite os textos de assets/terminal.svg.
+- Os SVGs são editáveis e não usam scripts, recursos externos ou chaves de API.
+- As estatísticas opcionais, dentro de uma seção recolhível, usam o serviço externo que já estava no README original.
+- O tema claro ou escuro da página é definido pelo GitHub do visitante. A identidade visual escura permanece no banner e nos assets.
+- A prévia local aproxima a apresentação do GitHub; não é uma captura de um perfil publicado.
+
+A pasta preview/ e os arquivos de instrução são opcionais no repositório. Os dois READMEs e a pasta assets/ compõem o perfil.
+

@@ -1,210 +1,277 @@
 <p align="right">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/Portugu%C3%AAs-Ver%20perfil-009C3B?style=flat-square" alt="Ver este perfil em português" />
-  </a>
-</p>
-
-<h1 align="center">Samuel Ziger</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=27&duration=3500&pause=900&color=FF3B3B&center=true&vCenter=true&width=820&lines=Pentester+%26+Security+Researcher;Full+Stack+Developer;Red+Team+%26+Security+Automation;OSINT+%26+Threat+Intelligence"
-    alt="Pentester, security researcher, and Full Stack developer"
-  />
+  <a href="./README.md">PT-BR</a> &nbsp; / &nbsp; <strong>EN</strong>
 </p>
 
 <p align="center">
-  <strong>Offensive security, automation, and software engineering applied to real-world problems.</strong>
+  <img src="./assets/banner.png" width="100%" alt="Samuel Ziger — Offensive Security / Software Engineering" />
 </p>
 
 <p align="center">
-  I identify risks, validate vulnerabilities, and build reproducible solutions for security, software development, and infrastructure.
+  <img src="./assets/terminal.svg" width="100%" alt="Pentester and security researcher. Full Stack developer. Red Team, automation, OSINT and threat intelligence." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-ziger-237524357/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ziger-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:samuelziger01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Samuel-Ziger/Certificado">
-    <img src="https://img.shields.io/badge/Certification-SYCP-B91C1C?style=flat-square" alt="SYCP certification" />
-  </a>
+  <strong>Understand the vulnerability. Demonstrate the impact. Build the fix.</strong>
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#experience">Experience</a> •
-  <a href="#technical-stack">Stack</a> •
-  <a href="#education-and-certifications">Education</a> •
-  <a href="#contact">Contact</a>
+  <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/CRTA.pdf"><img src="./assets/crta.svg" height="38" alt="CRTA — Certified Red Team Analyst, CyberWarFare Labs" /></a>
+  &nbsp;
+  <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Solyd-SYCP.pdf"><img src="./assets/sycp.svg" height="38" alt="SYCP — Solyd Certified Pentester" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-ziger-237524357/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:samuelziger01@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Samuel-Ziger/Certificado">Certificates</a>
+</p>
+
+<p align="center">
+  <a href="#profile">PROFILE</a> &nbsp; / &nbsp;
+  <a href="#projects">PROJECTS</a> &nbsp; / &nbsp;
+  <a href="#toolbox">STACK</a> &nbsp; / &nbsp;
+  <a href="#experience">EXPERIENCE</a> &nbsp; / &nbsp;
+  <a href="#credentials">CERTIFICATIONS</a> &nbsp; / &nbsp;
+  <a href="#contact">CONTACT</a>
+</p>
+
+<p align="center">
+  <img src="./assets/signal.svg" width="100%" height="14" alt="" />
+</p>
+
+<a name="profile"></a>
+
+## `01 / whoami`
+
+I'm **Samuel Ziger**, a pentester, security researcher and Full Stack developer.
+
+My work connects **offensive security and software engineering**. I investigate applications, validate vulnerabilities and build tools that turn scattered information into technical evidence and verifiable fixes.
+
+```yaml
+name: Samuel Ziger
+roles: [Pentester, Security Researcher, Full Stack Developer]
+focus: [Web Security, Recon, OSINT, Red Team, Automation]
+credentials: [CRTA, SYCP]
+approach: "Understand the cause. Validate the impact. Support the fix."
+```
+
+---
+
+<a name="projects"></a>
+
+## `02 / projects`
+
+### [GHOSTRECON](https://github.com/Samuel-Ziger/GHOSTRECON)
+
+`RECON` `OSINT` `AUTOMATION`
+
+A reconnaissance platform for authorized operations. Automates collection, correlates sources and organizes attack surface mapping into technical reports.
+
+### [SetupRedTeam](https://github.com/Samuel-Ziger/SetupRedTeam)
+
+`ENVIRONMENT SETUP` `WINDOWS` `KALI LINUX`
+
+Standardized environment setup for pentesting and Red Team work. Automates tool installation and makes the working environment easier to reproduce.
+
+### [RootID](https://github.com/Samuel-Ziger/RootId)
+
+`OSINT` `AI` `CORRELATION`
+
+Contextual analysis of public data with **Serper.dev** and **Google Gemini**. Combines information correlation with reliability and risk indicators.
+
+### [RedTeam Essentials](https://github.com/Samuel-Ziger/RedTeam-Essentials)
+
+`PLAYBOOKS` `CHEATSHEETS` `METHODOLOGY`
+
+An offensive security learning resource with learning paths, playbooks, cheatsheets, **MITRE ATT&CK** references and report templates.
+
+### [Cybersecurity Course](https://github.com/Samuel-Ziger/CursoSegurancaCibernetica)
+
+`SECURITY AWARENESS` `SOCIAL ENGINEERING` `ACCOUNT SECURITY`
+
+Content on phishing, social engineering, OSINT and best practices for protecting people, accounts and organizations.
+
+<p align="right">
+  <a href="https://github.com/Samuel-Ziger?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
 
 ---
 
-## About me
+<a name="toolbox"></a>
 
-I am a **pentester, security researcher, and Full Stack developer** working across web application security, automation, OSINT, APIs, and infrastructure.
+## `03 / toolbox`
 
-My goal is to go beyond finding a vulnerability: I work to understand its root cause, demonstrate its impact responsibly, and support a verifiable fix.
-
-My current areas of study and development include:
-
-- Web application pentesting and vulnerability analysis;
-- Reconnaissance and attack surface mapping;
-- Automation for pentesting and Red Team operations;
-- OSINT and threat intelligence;
-- API and internal tooling development;
-- Linux, networking, hardening, and infrastructure security.
-
-> All security work presented on this profile is conducted in labs, on assets I own, or on systems for which I have formal authorization.
-
----
-
-## Featured projects
-
-| Project | What it delivers | Highlights |
-| --- | --- | --- |
-| **[GHOSTRECON](https://github.com/Samuel-Ziger/GHOSTRECON)** | Reconnaissance and OSINT platform for authorized operations | Automated collection, source correlation, attack surface mapping, and technical reporting |
-| **[SetupRedTeam](https://github.com/Samuel-Ziger/SetupRedTeam)** | Standardized setup for pentesting and Red Team environments | More than 90 tools, automated installation, and support for Windows and Kali Linux |
-| **[RootID](https://github.com/Samuel-Ziger/RootId)** | OSINT tool enhanced with contextual AI analysis | Serper.dev, Google Gemini, public-data correlation, and confidence and risk indicators |
-| **[RedTeam Essentials](https://github.com/Samuel-Ziger/RedTeam-Essentials)** | Educational offensive security knowledge base | Learning paths, playbooks, cheatsheets, MITRE ATT&CK, and report templates |
-| **[Cybersecurity Course](https://github.com/Samuel-Ziger/CursoSegurancaCibernetica)** | Security awareness and digital safety training | Phishing, social engineering, OSINT, account protection, and organizational best practices |
-
----
-
-## Experience
-
-### Pentester and Developer · A Divisão
-
-**Military-focused solutions hub** · 2025 — Present
-
-- Web application security testing based on the OWASP Top 10;
-- Vulnerability identification, documentation, and mitigation support;
-- Development of AI-assisted corporate OSINT tools;
-- Automation of data collection, analysis, and technical reporting.
-
-### Full Stack Developer · Photo Now
-
-**Self-service technology and solutions** · 2025 — Present
-
-- Development and maintenance of web applications;
-- Integration of frontend applications, APIs, services, and backend components;
-- Backend development with Java;
-- Support for deployment, infrastructure, and application security.
-
-### Independent Security Researcher · Bug Bounty
-
-**Programs with authorized scopes** · 2025 — Present
-
-- Application reconnaissance and security analysis;
-- Technical validation and responsible disclosure of vulnerabilities;
-- Continuous study of web security and bug bounty methodologies.
-
-### Military Service · Brazilian Army
-
-**Infrastructure, networking, and IT support** · 2022 — 2026
-
-- Network and system administration, maintenance, and hardening;
-- Diagnosis and resolution of technical incidents;
-- Activity coordination and team leadership.
-
----
-
-## Technical stack
-
-| Area | Technologies and knowledge |
-| --- | --- |
-| **Languages** | Python, Java, JavaScript, TypeScript, and Bash |
-| **Web development** | Vue.js, React, HTML, CSS, Bootstrap, Spring Boot, and REST APIs |
-| **Data and backend** | Relational databases, Firebase, and ORM |
-| **Web security** | Burp Suite, OWASP ZAP, Postman, and OWASP Top 10 |
-| **Networks and exploitation** | Nmap, Wireshark, Metasploit, and Aircrack-ng |
-| **OSINT** | Shodan, Censys, theHarvester, Serper.dev, and OSINT frameworks |
-| **Infrastructure** | Linux, Kali Linux, Windows, Docker, Kubernetes, networking, and hardening |
-| **Version control** | Git, GitHub, and GitLab |
-| **AI and automation** | Google Gemini, LLMs, and Python automation |
+| Area | Tools and knowledge |
+| :--- | :--- |
+| **Languages** | Python · Java · JavaScript · TypeScript · Bash |
+| **Web development** | Vue.js · React · HTML · CSS · Bootstrap · Spring Boot · REST APIs |
+| **Data and backend** | Relational databases · Firebase · ORM |
+| **Web security** | Burp Suite · OWASP ZAP · Postman · OWASP Top 10 |
+| **Networking and exploitation** | Nmap · Wireshark · Metasploit · Aircrack-ng |
+| **Reconnaissance and OSINT** | Shodan · Censys · theHarvester · Serper.dev · OSINT frameworks |
+| **Infrastructure** | Linux · Kali Linux · Windows · Docker · Kubernetes · Networking · Hardening |
+| **Version control** | Git · GitHub · GitLab |
+| **AI and automation** | Google Gemini · LLMs · Python automation |
 
 **Additional knowledge:** C# and Go.
 
 ---
 
-## Education and certifications
+<a name="experience"></a>
+
+## `04 / experience`
+
+### A Divisão
+
+**Pentester and Developer** · Solutions hub for military personnel  
+`2025 — Present`
+
+- Web application testing based on the OWASP Top 10, evidence documentation and support for vulnerability mitigation.
+- Development of corporate OSINT tools with AI and automation for collection, analysis and technical reporting.
+
+### Photo Now
+
+**Full Stack Developer** · Self-service technology and solutions  
+`2025 — Present`
+
+- Development and maintenance of web applications, integrating frontend, APIs and backend services.
+- Backend development with Java and support for deployment, infrastructure and application security.
+
+### Bug Bounty
+
+**Independent Researcher** · Programs with authorized scope  
+`2025 — Present`
+
+- Reconnaissance, application analysis and technical validation of vulnerabilities.
+- Responsible reporting and ongoing research into web security and bug bounty methodologies.
+
+### Brazilian Army
+
+**Military service · Infrastructure, networking and technical support**  
+`2022 — 2026`
+
+- Administration, maintenance and hardening of networks and systems.
+- Technical incident diagnosis, task coordination and team leadership.
+
+---
+
+<a name="credentials"></a>
+
+## `05 / credentials`
+
+### CRTA · Certified Red Team Analyst
+
+**CyberWarFare Labs** · October 2026
+
+A practical offensive security certification focused on reconnaissance, vulnerability exploitation and techniques applied to Red Team operations.
+
+**[View CRTA certificate →](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/CRTA.pdf)**
+
+### SYCP · Solyd Certified Pentester
+
+**Solyd Offensive Security** · June 2026
+
+A practical certification in web pentesting, controlled vulnerability exploitation, evidence documentation and technical reporting.
+
+**[View SYCP certificate →](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Solyd-SYCP.pdf)**
+
+**[View certificate portfolio →](https://github.com/Samuel-Ziger/Certificado)**
+
+<details>
+<summary><strong>Additional certifications · IBSEC</strong></summary>
+
+- **[Cybersecurity Fundamentals](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20em%20Ciberseguran%C3%A7a.pdf)** · March 2026.
+- **[Cybersecurity Best Practices — Cybersecurity Awareness](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Boas%20Praticas%20de%20%20ciberseguran%C3%A7a.pdf)** · March 2026.
+
+Issued by the **Brazilian Institute of Cybersecurity (IBSEC)** after passing a knowledge and skills examination.
+
+</details>
 
 ### Systems Analysis and Development
 
 **Estácio** · 2024 — 2026
 
-### Solyd Certified Pentester — SYCP
+<details>
+<summary><strong>Additional training</strong></summary>
 
-Hands-on certification covering web application pentesting, controlled vulnerability exploitation, evidence documentation, and technical report writing.
+- **Cisco Networking Academy:** Ethical Hacker, Cyber Threat Management and Introduction to Cybersecurity.
+- **Solyd Offensive Security:** web security, reconnaissance, infrastructure, Active Directory, post-exploitation and Bug Bounty automation.
+- **Desec Security:** Introduction to Practical Pentesting.
+- **Hacking Club:** Hacking for Beginners.
+- **DIO:** AI fundamentals, LLMs and prompt engineering.
 
-🔗 **[View certification portfolio](https://github.com/Samuel-Ziger/Certificado)**
-
-### Additional training
-
-- **Cisco Networking Academy:** Ethical Hacker, Cyber Threat Management, and Introduction to Cybersecurity;
-- **Desec Security:** Web and Wireless Pentesting;
-- **Offensive security:** Introduction to Practical Pentesting;
-- **Artificial intelligence:** Prompt Engineering, LLMs, and Applied AI.
+</details>
 
 ---
 
-## Digital security content
+<a name="knowledge"></a>
 
-Through **Zona de Segurança Digital**, I create content that helps people identify scams and protect their accounts, data, and transactions.
+## `06 / knowledge`
 
-Topics include phishing, social engineering, authentication, Pix payments, privacy, and social media security.
+Through **Zona de Segurança Digital**, I create content to help people recognize scams and protect their accounts, data and transactions.
 
-📲 **[TikTok — @zonadesegurancadigital](https://www.tiktok.com/@zonadesegurancadigital)**
+This work covers phishing, social engineering, authentication, Pix, privacy and social media security.
+
+**[TikTok · @zonadesegurancadigital →](https://www.tiktok.com/@zonadesegurancadigital)**
 
 ---
 
-## GitHub activity
+<a name="telemetry"></a>
+
+## `07 / telemetry`
+
+**[Public repositories](https://github.com/Samuel-Ziger?tab=repositories)** · **[Profile activity](https://github.com/Samuel-Ziger)**
+
+<details>
+<summary><strong>Expand public GitHub statistics</strong></summary>
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&show_icons=true&theme=dracula&hide=contribs&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Samuel-Ziger&show_icons=true&hide=contribs&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=C9D1D9&border_radius=8&locale=en"
+    width="495"
     alt="Samuel Ziger's public GitHub statistics"
   />
+</p>
+
+<p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&layout=compact&theme=dracula&hide_border=true"
-    alt="Languages found across Samuel Ziger's public repositories"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ziger&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=C9D1D9&border_radius=8&locale=en"
+    width="495"
+    alt="Languages used in Samuel Ziger's public repositories"
   />
 </p>
 
-> The languages displayed above are calculated from public repositories and do not independently represent proficiency.
+The languages shown reflect the code in public repositories and do not, on their own, represent proficiency.
+
+</details>
 
 ---
 
-## Contact
+<a name="contact"></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-ziger-237524357/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ziger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Samuel-Ziger">
-    <img src="https://img.shields.io/badge/GitHub-Samuel--Ziger-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:samuelziger01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-samuelziger01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+## `08 / connect`
+
+**Security, development and research. Let's talk.**
+
+<p>
+  <a href="https://www.linkedin.com/in/samuel-ziger-237524357/"><img src="./assets/linkedin.svg" height="36" alt="Samuel Ziger on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:samuelziger01@gmail.com"><img src="./assets/email.svg" height="36" alt="Email Samuel Ziger" /></a>
+  &nbsp;
+  <a href="https://github.com/Samuel-Ziger"><img src="./assets/github.svg" height="36" alt="Samuel Ziger on GitHub" /></a>
 </p>
 
----
+**Email:** [samuelziger01@gmail.com](mailto:samuelziger01@gmail.com)
 
-## Ethics and responsibility
-
-All offensive security content has an educational, defensive, or authorized research purpose. Do not test, scan, or exploit systems, applications, or networks without formal authorization and a clearly defined scope.
+> **Responsible research.** Security work featured in this profile is carried out in labs, on owned assets or on systems with formal authorization and a defined scope.
 
 <p align="center">
-  <strong>If you find one of my projects useful, consider leaving it a ⭐.</strong>
+  <img src="./assets/signal.svg" width="100%" height="14" alt="" />
 </p>
 
 <p align="center">
-  Built with 🛡️ by Samuel Ziger
+  <sub><strong>RECON · RESEARCH · AUTOMATION · ENGINEERING</strong></sub><br />
+  <sub>Built by Samuel Ziger.</sub>
 </p>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel Ziger — technical profile</title>
+  <desc id="desc">Pentester and security researcher, Full Stack developer, Red Team and security automation, OSINT and threat intelligence.</desc>
+  <rect x="1" y="1" width="998" height="148" rx="8" fill="#0d1117" stroke="#252b35"/>
+  <path d="M17 1H188" stroke="#ff3b3b" stroke-width="2"/>
+  <path d="M812 149H983" stroke="#ff3b3b" stroke-width="2"/>
+  <text x="30" y="43" font-family="Consolas,Monaco,monospace" font-size="23" fill="#ff5555">ziger@lab:~$</text>
+  <text x="222" y="43" font-family="Consolas,Monaco,monospace" font-size="23" fill="#c9d1d9">whoami</text>
+  <rect x="316" y="23" width="12" height="25" fill="#ff3b3b">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <path d="M30 61H970" stroke="#252b35"/>
+  <g font-family="Consolas,Monaco,monospace" font-weight="700" font-size="40" fill="#e6edf3">
+    <text x="30" y="113" opacity="1">PENTESTER &amp; SECURITY RESEARCHER
+      <animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;0.25;0.5;0.75;1" dur="16s" repeatCount="indefinite" calcMode="discrete"/>
+    </text>
+    <text x="30" y="113" opacity="0">FULL STACK DEVELOPER
+      <animate attributeName="opacity" values="0;1;0;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="16s" repeatCount="indefinite" calcMode="discrete"/>
+    </text>
+    <text x="30" y="113" opacity="0">RED TEAM &amp; SECURITY AUTOMATION
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="16s" repeatCount="indefinite" calcMode="discrete"/>
+    </text>
+    <text x="30" y="113" opacity="0">OSINT &amp; THREAT INTELLIGENCE
+      <animate attributeName="opacity" values="0;0;0;1;0" keyTimes="0;0.25;0.5;0.75;1" dur="16s" repeatCount="indefinite" calcMode="discrete"/>
+    </text>
+  </g>
+</svg>
+

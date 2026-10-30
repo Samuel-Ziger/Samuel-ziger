@@ -1,0 +1,22 @@
+DIREÇÃO VISUAL
+
+Perfil: Samuel Ziger
+Conceito: Offensive Security / Software Engineering
+Paleta: preto/grafite, vermelho #FF3B3B, branco e pequenos acentos frios.
+Composição: banner panorâmico, nome em grande escala, monograma geométrico, terminal local e badges consistentes.
+Tipografia dos SVGs: Consolas / Monaco / monospace, com fallback de sistema.
+Conteúdo: projetos verificáveis, certificações em destaque, experiência e ferramentas apresentadas com clareza.
+Banner: imagem original criada com o recurso integrado de geração de imagens.
+Assets SVG: gráficos vetoriais editáveis criados em código.
+
+ESPECIFICAÇÃO FINAL DO BANNER
+
+Use case: ads-marketing / stylized-concept
+Asset type: premium GitHub profile README banner, ultra-wide 3:1 landscape composition, aim for 2400 x 800.
+Create a finished, visually striking cyber identity banner for Brazilian offensive security researcher and software developer Samuel Ziger.
+Art direction: black graphite background, extremely dark charcoal panels, intense crimson red light with a very restrained cool cyan accent. Sophisticated futuristic red-team aesthetic, cinematic but clean, sharp geometric framing, fine circuit traces, subtle scanlines and technical topographic contours, deep black negative space. Right third: an original abstract angular SZ-inspired geometric monolith / digital sigil, glowing crimson edges, intricate wireframe facets dissolving into sparse particles. No borrowed logos.
+Left two thirds: beautifully composed huge clean custom condensed sans-serif typography, bone-white, two lines. Exact text line 1: "SAMUEL". Exact text line 2: "ZIGER". The name is the dominant element and stays highly readable when the banner is reduced to 350px wide. Slight red offset glitch accents only at isolated letter edges, never destroy readability.
+One very small clean uppercase label along the lower left: "OFFENSIVE SECURITY / SOFTWARE ENGINEERING".
+Composition: keep all text and important imagery safely away from edges. Fill entire horizontal frame with finished design. The name and sigil occupy the middle 70% of banner height. Premium editorial hierarchy, asymmetric balance, purposeful negative space.
+No portraits, no hooded person, no skull, no Matrix green rain, no fake certifications, no numerical metrics, no stock watermarks, no extra text, no mockup of a web page. This is the actual flat banner artwork ready to use, not a screenshot of a website. Opaque dark background.
+
