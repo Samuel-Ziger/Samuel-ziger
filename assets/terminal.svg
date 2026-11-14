@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
   <title id="title">Samuel Ziger — technical profile</title>
-  <desc id="desc">Pentester and security researcher, Full Stack developer, Red Team and security automation, OSINT and threat intelligence.</desc>
+  <desc id="desc">Pentester and security researcher, Full Stack developer, Red Team, API security and automation, OSINT and threat intelligence.</desc>
   <rect x="1" y="1" width="998" height="148" rx="8" fill="#0d1117" stroke="#252b35"/>
   <path d="M17 1H188" stroke="#ff3b3b" stroke-width="2"/>
   <path d="M812 149H983" stroke="#ff3b3b" stroke-width="2"/>
@@ -17,7 +17,7 @@
     <text x="30" y="113" opacity="0">FULL STACK DEVELOPER
       <animate attributeName="opacity" values="0;1;0;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="16s" repeatCount="indefinite" calcMode="discrete"/>
     </text>
-    <text x="30" y="113" opacity="0">RED TEAM &amp; SECURITY AUTOMATION
+    <text x="30" y="113" opacity="0">RED TEAM &amp; API SECURITY
       <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="16s" repeatCount="indefinite" calcMode="discrete"/>
     </text>
     <text x="30" y="113" opacity="0">OSINT &amp; THREAT INTELLIGENCE

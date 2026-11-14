@@ -2,7 +2,7 @@ SAMUEL ZIGER — README CYBER
 
 COMO USAR
 
-1. Extraia o arquivo ZIP.
+1. Clone o repositório Samuel-Ziger/Samuel-ziger ou baixe e extraia o ZIP.
 2. Coloque README.md, README.en.md e a pasta assets/ na raiz do seu repositório de perfil.
 3. Faça o commit dos arquivos. Preserve exatamente os nomes e a capitalização dos caminhos.
 4. Abra o README no GitHub. O seletor PT-BR / EN alterna entre as duas versões.
@@ -17,7 +17,7 @@ README.md — perfil em português.
 README.en.md — perfil em inglês.
 assets/banner.png — banner original em preto, grafite e vermelho.
 assets/terminal.svg — terminal animado com quatro frentes de atuação.
-assets/crta.svg e assets/sycp.svg — badges das certificações práticas.
+assets/api-rta.svg, assets/crta.svg e assets/sycp.svg — badges das certificações práticas.
 assets/ibsec-fundamentals.svg e assets/ibsec-awareness.svg — badges das certificações IBSEC.
 assets/linkedin.svg, assets/email.svg e assets/github.svg — botões de contato.
 assets/signal.svg — divisor visual.
@@ -27,13 +27,16 @@ DESIGN.txt — direção visual e especificação do banner.
 
 CERTIFICADOS
 
-As credenciais CRTA, SYCP e as duas certificações complementares do IBSEC foram conferidas nos documentos fornecidos.
-Os links apontam para os caminhos identificados no arquivo Certificado-main.zip, dentro de github.com/Samuel-Ziger/Certificado.
-A estrutura apresenta as quatro certificações profissionais, o vínculo ISC2 Candidate, as formações Cisco e Desec e os 37 cursos documentados no ZIP.
-As datas, os códigos de credencial e as validades adicionais foram informados pelo titular.
-ISC2 Candidate aparece como participação no programa de candidatos; Learn-A-Thon aparece como programa de aprendizagem.
-Os 33 cursos que complementam os quatro destaques Cisco/Desec estão agrupados em seis blocos expansíveis.
+Atualizado em 14/11/2026, em conjunto com o repositório Samuel-Ziger/Certificado.
+Os links dos certificados e dos currículos em português e inglês apontam para os arquivos desse repositório.
+O inventário documenta 44 credenciais distintas: 5 certificações com exame (API-RTA, CRTA, SYCP e duas do IBSEC) e 39 certificados de conclusão de curso.
+A API-RTA foi emitida pela CyberWarFare Labs em 14/11/2026. O perfil inclui o código da credencial, o PDF e o programa oficial da certificação.
+Os cursos de Fundamentos de Assembly para Pentester e Desenvolvimento de Exploits e de Fundamentos de Análise e Desenvolvimento de Malwares foram incluídos em Fundamentos de segurança.
+ISC2 Candidate aparece como participação no programa de candidatos; Learn-A-Thon aparece como programa de aprendizagem. Essas participações não entram na contagem de 44 credenciais.
+Os 35 cursos que complementam os quatro destaques Cisco/Desec estão agrupados em seis blocos expansíveis.
+As datas e os códigos das novas credenciais foram conferidos nos documentos. As demais datas e validades já presentes no perfil foram preservadas.
 Os links "Validar" foram extraídos dos próprios documentos; não foram criados por dedução.
+As duas prévias HTML acompanham o conteúdo atualizado dos READMEs.
 
 PERSONALIZAÇÃO
 

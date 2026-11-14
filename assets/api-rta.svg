@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="48" viewBox="0 0 280 48" role="img" aria-labelledby="t">
+  <title id="t">API-RTA — Certified API Red Team Analyst, CyberWarFare Labs</title>
+  <rect x=".5" y=".5" width="279" height="47" rx="5" fill="#0d1117" stroke="#ff3b3b"/>
+  <path d="M5 1h104v46H5a4 4 0 0 1-4-4V5a4 4 0 0 1 4-4z" fill="#b91c2c"/>
+  <text x="55" y="31" font-family="Consolas,monospace" font-size="21" font-weight="700" text-anchor="middle" fill="#fff">API-RTA</text>
+  <text x="194" y="22" font-family="Arial,sans-serif" font-size="10.5" font-weight="700" text-anchor="middle" letter-spacing=".65" fill="#e6edf3">CYBERWARFARE LABS</text>
+  <text x="194" y="36" font-family="Consolas,monospace" font-size="10" text-anchor="middle" letter-spacing=".65" fill="#aeb9c8">API RED TEAM ANALYST</text>
+</svg>

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Pentester e pesquisador de segurança. Desenvolvedor Full Stack. Red Team, automação, OSINT e inteligência de ameaças." />
+  <img src="./assets/terminal.svg" width="100%" alt="Pentester e pesquisador de segurança. Desenvolvedor Full Stack. Red Team, segurança de APIs, automação, OSINT e inteligência de ameaças." />
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Web/API-RTA.pdf"><img src="./assets/api-rta.svg" height="38" alt="API-RTA — Certified API Red Team Analyst, CyberWarFare Labs" /></a>
+  &nbsp;
   <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/CRTA.pdf"><img src="./assets/crta.svg" height="38" alt="CRTA — Certified Red Team Analyst, CyberWarFare Labs" /></a>
   &nbsp;
   <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Solyd-SYCP.pdf"><img src="./assets/sycp.svg" height="38" alt="SYCP — Solyd Certified Pentester" /></a>
@@ -32,6 +34,13 @@
   <a href="mailto:samuelziger01@gmail.com">Email</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/Samuel-Ziger/Certificado">Certificados</a>
+</p>
+
+<p align="center">
+  <strong>Currículos:</strong>
+  <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Outros/Samuel_Ziger_CV_PT_atualizado.pdf">PT-BR · PDF</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/Samuel-Ziger/Certificado/blob/main/Outros/Samuel_Ziger.pdf">EN · PDF</a>
 </p>
 
 <p align="center">
@@ -58,11 +67,13 @@ Sou **Samuel Ziger**, pentester, pesquisador de segurança e desenvolvedor Full 
 
 Meu trabalho conecta **segurança ofensiva e engenharia de software**. Investigo aplicações, valido vulnerabilidades e construo ferramentas para transformar informações dispersas em evidências técnicas e correções verificáveis.
 
+Minha formação em segurança de APIs complementa essa atuação, conectando o desenvolvimento de aplicações à avaliação de autenticação, autorização e lógica de negócio.
+
 ```yaml
 name: Samuel Ziger
 roles: [Pentester, Security Researcher, Full Stack Developer]
-focus: [Web Security, Recon, OSINT, Red Team, Automation]
-credentials: [CRTA, SYCP]
+focus: [Web Security, API Security, Recon, OSINT, Red Team, Automation]
+credentials: [API-RTA, CRTA, SYCP]
 approach: "Compreender a causa. Validar o impacto. Apoiar a correção."
 ```
 
@@ -170,6 +181,17 @@ Conteúdo sobre phishing, engenharia social, OSINT e boas práticas para protege
 
 ## `05 / credentials`
 
+**5 certificações com exame** e **39 certificados de conclusão de curso** documentados no [portfólio de certificados](https://github.com/Samuel-Ziger/Certificado).
+
+### API-RTA · Certified API Red Team Analyst
+
+**CyberWarFare Labs** · Emitida em **14 de novembro de 2026**<br />
+**Credencial:** `API-RTA-6af7c345ad503cfdbcbfe9cf`
+
+Certificação prática focada em segurança ofensiva de APIs, com reconhecimento de endpoints, testes de autenticação e autorização e exploração de falhas de lógica de negócio. Complementa minha formação em pentest e Red Team com uma especialização alinhada ao desenvolvimento de aplicações e serviços de backend.
+
+**[Ver certificado API-RTA →](https://github.com/Samuel-Ziger/Certificado/blob/main/Web/API-RTA.pdf)** · [Programa da certificação](https://cyberwarfare.live/product/api-red-team-analyst-api-rta/)
+
 ### CRTA · Certified Red Team Analyst
 
 **CyberWarFare Labs** · Emitida em **outubro de 2026**  
@@ -237,7 +259,7 @@ Participação no programa de candidatos da ISC2, com o status **ISC2 Candidate*
 
 ### Formação acadêmica
 
-**Análise e Desenvolvimento de Sistemas** · Estácio · 2024 — 2026
+**Análise e Desenvolvimento de Sistemas** · Estácio · 2024 — em andamento
 
 ### Cursos por área
 
@@ -282,7 +304,9 @@ Formações em segurança ofensiva, sistemas, redes, desenvolvimento e inteligê
 <details>
 <summary><strong>Fundamentos de segurança</strong></summary>
 
-- **[Hacking para iniciantes](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Hackingparainiciantes.pdf)** — Hacking Club · set/2026 · [Validar](https://app.hackingclub.com/certificate/validate?id=508ba69c-7c16-4d30-8758-786a09d4e595).
+- **[Fundamentos de Análise e Desenvolvimento de Malwares](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Malware.pdf)** — Solyd Offensive Security · nov/2026 · 26 h 40 min · [Validar](https://solyd.com.br/verificar/Hbfs04kAPI).
+- **[Fundamentos de Assembly para Pentester e Desenvolvimento de Exploits](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Assembly%20para%20Pentester.pdf)** — Solyd Offensive Security · nov/2026 · 13 h 20 min · [Validar](https://solyd.com.br/verificar/84DAC5sQFi).
+- **[Hacking para iniciantes](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Hacking%20para%20iniciantes.pdf)** — Hacking Club · set/2026 · [Validar](https://app.hackingclub.com/certificate/validate?id=508ba69c-7c16-4d30-8758-786a09d4e595).
 - **[Fundamentos de PowerShell para Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Powershell%20para%20Pentesters.pdf)** — Solyd Offensive Security · mai/2026 · [Validar](https://solyd.com.br/verificar/PCOOdEdhgL).
 - **[Fundamentos de Privacidade e Anonimato](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Privacidade%20e%20Anonimato.pdf)** — Solyd Offensive Security · mar/2026 · [Validar](https://solyd.com.br/verificar/n44nvF001T).
 - **[Princípios da Cibersegurança](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Pr%C3%ADncipios%20da%20ciberseguran%C3%A7a.pdf)** — DIO · mar/2026.
