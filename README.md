@@ -181,7 +181,7 @@ Conteúdo sobre phishing, engenharia social, OSINT e boas práticas para protege
 
 ## `05 / credentials`
 
-**5 certificações com exame** e **40 certificados de conclusão de curso** documentados no [portfólio de certificados](https://github.com/Samuel-Ziger/Certificado).
+**5 certificações com exame** e **41 certificados de conclusão de curso** documentados no [portfólio de certificados](https://github.com/Samuel-Ziger/Certificado).
 
 ### API-RTA · Certified API Red Team Analyst
 
@@ -305,6 +305,7 @@ Formações em segurança ofensiva, sistemas, redes, desenvolvimento e inteligê
 <details>
 <summary><strong>Fundamentos de segurança</strong></summary>
 
+- **[Introdução ao Hacking e Pentest 3.0](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Introdu%C3%A7%C3%A3o%20ao%20Hacking%20e%20Pentest%203.0.pdf)** — Solyd Offensive Security · 17/11/2026 · 16 h · [Validar](https://solyd.com.br/verificar/RuhBwezrRL).
 - **[Fundamentos de Análise e Desenvolvimento de Malwares](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Malware.pdf)** — Solyd Offensive Security · nov/2026 · 26 h 40 min · [Validar](https://solyd.com.br/verificar/Hbfs04kAPI).
 - **[Fundamentos de Assembly para Pentester e Desenvolvimento de Exploits](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Assembly%20para%20Pentester.pdf)** — Solyd Offensive Security · nov/2026 · 13 h 20 min · [Validar](https://solyd.com.br/verificar/84DAC5sQFi).
 - **[Hacking para iniciantes](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Hacking%20para%20iniciantes.pdf)** — Hacking Club · set/2026 · [Validar](https://app.hackingclub.com/certificate/validate?id=508ba69c-7c16-4d30-8758-786a09d4e595).

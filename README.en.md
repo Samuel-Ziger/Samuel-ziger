@@ -181,7 +181,7 @@ Content on phishing, social engineering, OSINT and best practices for protecting
 
 ## `05 / credentials`
 
-**5 exam-based certifications** and **40 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
+**5 exam-based certifications** and **41 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
 
 ### API-RTA · Certified API Red Team Analyst
 
@@ -305,6 +305,7 @@ Training in offensive security, systems, networking, development and artificial 
 <details>
 <summary><strong>Security fundamentals</strong></summary>
 
+- **[Introduction to Hacking and Pentesting 3.0](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Introdu%C3%A7%C3%A3o%20ao%20Hacking%20e%20Pentest%203.0.pdf)** — Solyd Offensive Security · 17 Nov 2026 · 16 h · [Verify](https://solyd.com.br/verificar/RuhBwezrRL).
 - **[Malware Analysis and Development Fundamentals](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Malware.pdf)** — Solyd Offensive Security · Nov/2026 · 26 h 40 min · [Verify](https://solyd.com.br/verificar/Hbfs04kAPI).
 - **[Assembly Fundamentals for Pentesting and Exploit Development](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Fundamentos%20de%20Assembly%20para%20Pentester.pdf)** — Solyd Offensive Security · Nov/2026 · 13 h 20 min · [Verify](https://solyd.com.br/verificar/84DAC5sQFi).
 - **[Hacking for Beginners](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/Hacking%20para%20iniciantes.pdf)** — Hacking Club · Sep/2026 · [Verify](https://app.hackingclub.com/certificate/validate?id=508ba69c-7c16-4d30-8758-786a09d4e595).
