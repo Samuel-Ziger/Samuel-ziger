@@ -29,15 +29,16 @@ CERTIFICADOS
 
 Atualizado em 17/11/2026, em conjunto com o repositório Samuel-Ziger/Certificado.
 Os links dos certificados e dos currículos em português e inglês apontam para os arquivos desse repositório.
-O inventário documenta 46 credenciais distintas: 5 certificações com exame (API-RTA, CRTA, SYCP e duas do IBSEC) e 41 certificados de conclusão de curso.
+O inventário documenta 47 credenciais distintas: 5 certificações com exame (API-RTA, CRTA, SYCP e duas do IBSEC) e 42 certificados de conclusão de curso.
 A API-RTA foi emitida pela CyberWarFare Labs em 14/11/2026. O perfil inclui o código da credencial, o PDF e o programa oficial da certificação.
 Os cursos de Fundamentos de Assembly para Pentester e Desenvolvimento de Exploits e de Fundamentos de Análise e Desenvolvimento de Malwares foram incluídos em Fundamentos de segurança.
-ISC2 Candidate aparece como participação no programa de candidatos; Learn-A-Thon aparece como programa de aprendizagem. Essas participações não entram na contagem de 46 credenciais.
-Os 37 cursos que complementam os quatro destaques Cisco/Desec estão agrupados em seis blocos expansíveis.
+ISC2 Candidate aparece como participação no programa de candidatos; Learn-A-Thon aparece como programa de aprendizagem. Essas participações não entram na contagem de 47 credenciais.
+Os 38 cursos que complementam os quatro destaques Cisco/Desec estão agrupados em seis blocos expansíveis.
 As datas e os códigos das novas credenciais foram conferidos nos documentos. As demais datas e validades já presentes no perfil foram preservadas.
 Os links "Validar" foram extraídos dos próprios documentos; não foram criados por dedução.
 O curso Técnicas de Evasão de Antivírus e EDR (Solyd, 20 h, 16/11/2026) foi incluído no bloco de Pentest, com o PDF e a validação oficial.
 O curso Introdução ao Hacking e Pentest 3.0 (Solyd, 16 h, 17/11/2026) foi incluído em Fundamentos de segurança, com o PDF e a validação oficial. O certificado da versão 2.0 permanece no histórico como uma emissão separada.
+O curso Ataques Man-in-the-Middle (MITM) (Solyd, 17 h 40 min, 17/11/2026) foi incluído no bloco de Sistemas, redes e infraestrutura, com o PDF e a validação oficial.
 As duas prévias HTML acompanham o conteúdo atualizado dos READMEs.
 
 PERSONALIZAÇÃO

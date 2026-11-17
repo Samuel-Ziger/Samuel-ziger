@@ -181,7 +181,7 @@ Content on phishing, social engineering, OSINT and best practices for protecting
 
 ## `05 / credentials`
 
-**5 exam-based certifications** and **41 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
+**5 exam-based certifications** and **42 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
 
 ### API-RTA · Certified API Red Team Analyst
 
@@ -293,6 +293,7 @@ Training in offensive security, systems, networking, development and artificial 
 <details>
 <summary><strong>Systems, networking and infrastructure</strong></summary>
 
+- **[Man-in-the-Middle (MITM) Attacks](https://github.com/Samuel-Ziger/Certificado/blob/main/Redes%20e%20infra/Ataques%20Man-in-the-Middle%20%28MITM%29.pdf)** — Solyd Offensive Security · 17 Nov 2026 · 17 h 40 min · [Verify](https://solyd.com.br/verificar/3trtQQvF1c).
 - **[Windows Post-Exploitation and Active Directory Pentesting](https://github.com/Samuel-Ziger/Certificado/blob/main/Sistemas/P%C3%B3s-explora%C3%A7%C3%A3o%20Windows%20e%20Pentest%20em%20Active.pdf)** — Solyd Offensive Security · Sep/2026 · [Verify](https://solyd.com.br/verificar/rwTBPu14ZX).
 - **[Wi-Fi Network Security](https://github.com/Samuel-Ziger/Certificado/blob/main/Redes%20e%20infra/Seguran%C3%A7a%20em%20Redes%20Wi-Fi.pdf)** — Solyd Offensive Security · Mar/2026 · [Verify](https://solyd.com.br/verificar/lZ0pW8JWVM).
 - **[Introduction to the Linux Operating System](https://github.com/Samuel-Ziger/Certificado/blob/main/Sistemas/Introdu%C3%A7%C3%A3o%20ao%20Sistema%20Operacional%20Linux.pdf)** — DIO · Mar/2026.
