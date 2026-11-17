@@ -181,7 +181,7 @@ Content on phishing, social engineering, OSINT and best practices for protecting
 
 ## `05 / credentials`
 
-**5 exam-based certifications** and **39 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
+**5 exam-based certifications** and **40 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
 
 ### API-RTA · Certified API Red Team Analyst
 
@@ -268,6 +268,7 @@ Training in offensive security, systems, networking, development and artificial 
 <details>
 <summary><strong>Pentesting, reconnaissance, Bug Bounty and social engineering</strong></summary>
 
+- **[Antivirus and EDR Evasion Techniques](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/T%C3%A9cnicas%20de%20Evas%C3%A3o%20de%20Antiv%C3%ADrus%20e%20EDR.pdf)** — Solyd Offensive Security · 16 Nov 2026 · 20 h · [Verify](https://solyd.com.br/verificar/N1mmYtlKY4).
 - **[Docker for Pentesters](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Docker%20para%20Pentesters.pdf)** — Solyd Offensive Security · Mar/2026 · [Verify](https://solyd.com.br/verificar/ye0u6PWPiz).
 - **[Welcome to the Riachuelo Cybersecurity Experience](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/Bem%20vindo%20a%20Experi%C3%AAncia%20Riachuelo%20Ciberseguran%C3%A7a.pdf)** — DIO / Riachuelo · Mar/2026.
 - **[Practical Pentesting Methodologies](https://github.com/Samuel-Ziger/Certificado/blob/main/Pentest/curso%20Metodologias%20de%20Pentest%20na%20Pr%C3%A1tica.pdf)** — Solyd Offensive Security · Feb/2026 · [Verify](https://solyd.com.br/verificar/mcMC2nG2ar).
