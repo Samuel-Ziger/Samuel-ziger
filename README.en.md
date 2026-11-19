@@ -181,7 +181,7 @@ Content on phishing, social engineering, OSINT and best practices for protecting
 
 ## `05 / credentials`
 
-**5 exam-based certifications** and **42 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
+**5 exam-based certifications** and **43 course completion certificates** documented in the [certificate portfolio](https://github.com/Samuel-Ziger/Certificado).
 
 ### API-RTA · Certified API Red Team Analyst
 
@@ -283,6 +283,7 @@ Training in offensive security, systems, networking, development and artificial 
 <details>
 <summary><strong>Web and mobile security</strong></summary>
 
+- **[Android Application Penetration Testing](https://github.com/Samuel-Ziger/Certificado/blob/main/Mobile/Pentest%20em%20Aplicativos%20Android.pdf)** — Solyd Offensive Security · 19 Nov 2026 · 24 h · [Verify](https://solyd.com.br/verificar/gC7ubrtF9B).
 - **[Artificial Intelligence for Web Pentesting](https://github.com/Samuel-Ziger/Certificado/blob/main/Web/curso%20Intelig%C3%AAncia%20Artificial%20para%20Pentest%20Web.pdf)** — Solyd Offensive Security · Jan/2026 · [Verify](https://solyd.com.br/verificar/v6pUWj2VHq).
 - **[Android Malware Development](https://github.com/Samuel-Ziger/Certificado/blob/main/Mobile/curso%20Desenvolvimento%20de%20Malwares%20para%20Android.pdf)** — Solyd Offensive Security · Jan/2026 · [Verify](https://solyd.com.br/verificar/bYKdrOGTiO).
 - **[Web Application Attacks](https://github.com/Samuel-Ziger/Certificado/blob/main/Web/curso%20Ataques%20em%20Aplica%C3%A7%C3%B5es%20Web.pdf)** — Solyd Offensive Security · Jan/2026 · [Verify](https://solyd.com.br/verificar/yS4hfUulEB).
