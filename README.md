@@ -181,7 +181,7 @@ Conteúdo sobre phishing, engenharia social, OSINT e boas práticas para protege
 
 ## `05 / credentials`
 
-**5 certificações com exame** e **43 certificados de conclusão de curso** documentados no [portfólio de certificados](https://github.com/Samuel-Ziger/Certificado).
+**5 certificações com exame**, **43 certificados de conclusão de curso** e **1 certificado de participação em evento** documentados no [portfólio de certificados](https://github.com/Samuel-Ziger/Certificado).
 
 ### API-RTA · Certified API Red Team Analyst
 
@@ -256,6 +256,11 @@ Participação no programa de candidatos da ISC2, com o status **ISC2 Candidate*
 
 **[Introdução ao Pentest na Prática](https://github.com/Samuel-Ziger/Certificado/blob/main/Fundamentos/certificado-introducao-pentest.pdf)** · Setembro de 2025  
 **Credencial:** `OXOZ-DJVVJ-VMAX`
+
+### Eventos
+
+**[#_4root WebTalks 2026](https://github.com/Samuel-Ziger/Certificado/blob/main/Eventos/Certificado_WebTalks_Samuel%20Ziger.pdf)** · 17 e 18/11/2026 · 8 h<br />
+Participação em evento online de compartilhamento de conhecimentos em segurança cibernética, organizado pela #_4root.
 
 ### Formação acadêmica
 
